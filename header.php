@@ -4,7 +4,7 @@
                     <div class="main-header__top-inner clearfix">
                         <div class="main-header__top-left">
                             <div class="main-header__top-logo">
-                                <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
+                                <a href="index.html"><img src="assets/images/resources/logo-1bb.png" alt=""></a>
                             </div>
                         </div>
                         <div class="main-header__top-right">
@@ -59,7 +59,7 @@
                                             <a href="handmade-fruniture.html">Services</a>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="team.html">gallery</a>
+                                            <a href="team.html">Gallery</a>
                                         </li>
                                         <li class="dropdown">
                                             <a href="blog.html">Blog</a>
