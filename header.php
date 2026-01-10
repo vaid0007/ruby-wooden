@@ -1,3 +1,5 @@
+
+
 <header class="main-header clearfix">
             <div class="main-header__top">
                 <div class="container">
@@ -59,13 +61,13 @@
                                             <a href="about.php">About</a>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="handmade-fruniture.html">Services</a>
+                                            <a href="service.php">Services</a>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="team.html">Gallery</a>
+                                            <a href="gallery.php">Gallery</a>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="blog.html">Blog</a>
+                                            <a href="blog.php">Blog</a>
                                         </li>
                                         <li>
                                             <a href="contact.php">Contact</a>
