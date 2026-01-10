@@ -136,7 +136,7 @@
               <div
                 class="image-layer"
                 style="
-                  background-image: url(assets/images/backgrounds/main-slider-1-1.jpg);
+                  background-image: url(assets/images/backgrounds/main-slider-1-1a.jpg);
                 "
               ></div>
               <div class="main-slider-overly-one"></div>
@@ -170,7 +170,7 @@
               <div
                 class="image-layer"
                 style="
-                  background-image: url(assets/images/backgrounds/main-slider-1-2.jpg);
+                  background-image: url(assets/images/backgrounds/main-slider-1-2a.jpg);
                 "
               ></div>
               <div class="main-slider-overly-one"></div>
@@ -204,7 +204,7 @@
               <div
                 class="image-layer"
                 style="
-                  background-image: url(assets/images/backgrounds/main-slider-1-3.jpg);
+                  background-image: url(assets/images/backgrounds/main-slider-1-3a.jpg);
                 "
               ></div>
               <div class="main-slider-overly-one"></div>
@@ -372,7 +372,7 @@
           <div class="why-choose-one__img-box">
             <div class="why-choose-one__img">
               <img
-                src="assets/images/resources/why-choose-one-img-1.jpg"
+                src="assets/images/resources/why-choose-one-img-1a.jpg"
                 alt=""
               />
               <div class="why-choose-one__dot float-bob-y">
@@ -384,7 +384,7 @@
             </div>
             <div class="why-choose-one__img-two">
               <img
-                src="assets/images/resources/why-choose-one-img-2.jpg"
+                src="assets/images/resources/why-choose-one-img-2a.jpg"
                 alt=""
               />
             </div>
@@ -503,7 +503,7 @@
       >
         <div class="services-one__single">
           <div class="services-one__img">
-            <img src="assets/images/services/services-1-1.jpg" alt="" />
+            <img src="assets/images/services/services-1-1a.jpg" alt="" />
           </div>
           <div class="services-one__content">
             <div class="services-one__icon">
@@ -530,7 +530,7 @@
       >
         <div class="services-one__single">
           <div class="services-one__img">
-            <img src="assets/images/services/services-1-2.jpg" alt="" />
+            <img src="assets/images/services/services-1-2a.jpg" alt="" />
           </div>
           <div class="services-one__content">
             <div class="services-one__icon">
@@ -557,7 +557,7 @@
       >
         <div class="services-one__single">
           <div class="services-one__img">
-            <img src="assets/images/services/services-1-3.jpg" alt="" />
+            <img src="assets/images/services/services-1-3a.jpg" alt="" />
           </div>
           <div class="services-one__content">
             <div class="services-one__icon">
@@ -584,7 +584,7 @@
       >
         <div class="services-one__single">
           <div class="services-one__img">
-            <img src="assets/images/services/services-1-4.jpg" alt="" />
+            <img src="assets/images/services/services-1-4a.jpg" alt="" />
           </div>
           <div class="services-one__content">
             <div class="services-one__icon">
@@ -725,7 +725,7 @@
           <div class="problem-solved__img-box">
             <div class="problem-solved__img">
               <img
-                src="assets/images/resources/problem-solved-img-1.jpg"
+                src="assets/images/resources/problem-solved-img-1a.jpg"
                 alt=""
               />
             </div>
@@ -807,7 +807,7 @@
       <div class="item">
         <div class="project-one__single">
           <div class="project-one__img">
-            <img src="assets/images/project/project-1-1.jpg" alt="" />
+            <img src="assets/images/project/project-1-1a.jpg" alt="" />
             <div class="project-one__content">
               <div class="project-one__content-title-box">
                 <span>Imported Mouldings</span>
@@ -830,7 +830,7 @@
       <div class="item">
         <div class="project-one__single">
           <div class="project-one__img">
-            <img src="assets/images/project/project-1-2.jpg" alt="" />
+            <img src="assets/images/project/project-1-2a.jpg" alt="" />
             <div class="project-one__content">
               <div class="project-one__content-title-box">
                 <span>Branded Materials</span>
@@ -853,7 +853,7 @@
       <div class="item">
         <div class="project-one__single">
           <div class="project-one__img">
-            <img src="assets/images/project/project-1-3.jpg" alt="" />
+            <img src="assets/images/project/project-1-3a.jpg" alt="" />
             <div class="project-one__content">
               <div class="project-one__content-title-box">
                 <span>Accessories</span>
@@ -876,7 +876,7 @@
       <div class="item">
         <div class="project-one__single">
           <div class="project-one__img">
-            <img src="assets/images/project/project-1-4.jpg" alt="" />
+            <img src="assets/images/project/project-1-4a.jpg" alt="" />
             <div class="project-one__content">
               <div class="project-one__content-title-box">
                 <span>Tools & Machines</span>
