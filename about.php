@@ -474,31 +474,6 @@
                 <div class="testimonial-three__right">
                     <div class="testimonial-three__carousel owl-carousel owl-theme thm-owl__carousel">
 
-                        <!-- Testimonial 1 -->
-                        <div class="item">
-                            <div class="testimonial-three__single">
-                                <p class="testimonial-three__text-2">
-                                    Beenu Traders always provides premium quality mouldings.
-                                    Their range and consistency help us deliver better results
-                                    to our customers.
-                                </p>
-                                <div class="testimonial-three__client-info">
-                                    <div class="testimonial-three__client-details">
-                                        <div class="testimonial-three__client-img">
-                                            <img src="assets/images/testimonial/testimonial-three-client-img-1.jpg" alt="">
-                                        </div>
-                                        <div class="testimonial-three__client-content">
-                                            <h4>Rahul Verma</h4>
-                                            <p>Frame Retailer</p>
-                                        </div>
-                                    </div>
-                                    <div class="testimonial-three__quote">
-                                        <span class="icon-quote"></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
                         <!-- Testimonial 2 -->
                         <div class="item">
                             <div class="testimonial-three__single">
