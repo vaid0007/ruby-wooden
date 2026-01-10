@@ -5,7 +5,7 @@
                         <div class="main-header__top-left">
                             <div class="main-header__top-logo">
                                <a href="index.html">
-  <img src="assets/images/resources/logo-1a.png" alt="" style="width: 100px;">
+  <img src="assets/images/resources/logo-1ac.png" alt="" style="width: 150px;">
 </a>
 
                             </div>
