@@ -7,7 +7,7 @@
                         <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__logo">
-                                    <a href="index.html"><img src="assets/images/resources/footer-logo.png" alt=""></a>
+                                    <a href="index.html"><img src="assets/images/resources/logo-1ac.png" alt=""></a>
                                 </div>
                                 <div class="footer-widget__about-text-box">
                                     <p class="footer-widget__about-text">Subscribe us and get latest news, tips and
@@ -48,11 +48,12 @@
                                     <h3 class="footer-widget__title">Other Link</h3>
                                 </div>
                                 <ul class="footer-widget__link-list list-unstyled clearfix">
-                                    <li><a href="index.html">Home</a></li>
-                                    <li><a href="about.html">About us</a></li>
-                                    <li><a href="testimonial.html">Testimonials</a></li>
-                                    <li><a href="blog.html">News & media</a></li>
-                                    <li><a href="project-01.html">Our projects</a></li>
+                                    <li><a href="index.php">Home</a></li>
+                                    <li><a href="about.php">About us</a></li>
+                                    <li><a href="Services.php">Services</a></li>
+                                    <li><a href="gallery.php">Gallery</a></li>
+                                    <li><a href="blog.php">Blog</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </div>
                         </div>

@@ -76,13 +76,13 @@
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Outdoor Designing</h2>
+                    <h2>Wooden Mouldings</h2>
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.html">Home</a></li>
                         <li><span>/</span></li>
                         <li><a href="services.html">services</a></li>
                         <li><span>/</span></li>
-                        <li>Outdoor Designing</li>
+                        <li>Wooden Mouldings</li>
                     </ul>
                 </div>
             </div>
@@ -99,20 +99,14 @@
                                 <h3 class="service-details__title">Services List</h3>
                                 <ul class="service-details__list list-unstyled">
 
-                                    <li><a href="handmade-fruniture.html">Handmade Fruniture <span class="icon-right-arrow-2"></span></a></li>
+                                    <li><a href="Wooden_Photo_Frame_Manufacturing.php">Wooden Photo Frames <span class="icon-right-arrow-2"></span></a></li>
 
-                                    <li class="active"><a href="outdoor-designing.html">Outdoor Designing <span class="icon-right-arrow-2"></span></a></li>
+                                    <li class="active"><a href="Woode_ Mouldings_and_Trim_Profiles.php">Wooden Mouldings <span class="icon-right-arrow-2"></span></a></li>
 
-                                    <li><a href="kitchen-modeling.html">Kitchen Modeling <span class="icon-right-arrow-2"></span></a>
+                                    <li><a href="Photo_Frame_Accessories.php">Frame Accessories <span class="icon-right-arrow-2"></span></a>
                                     </li>
 
-                                    <li><a href="wood-fruniture.html">Wood Fruniture <span class="icon-right-arrow-2"></span></a></li>
-
-                                    <li><a href="celling-roofing.html">Celling & Roofing <span class="icon-right-arrow-2"></span></a>
-                                    </li>
-
-                                    <li><a href="office-renovation.html">Office Renovation <span class="icon-right-arrow-2"></span></a>
-                                    </li>
+                                    <li><a href="Custom_Frame_and_Moulding_Orders.php">Custom Frame & Moulding Orders <span class="icon-right-arrow-2"></span></a></li>
 
                                 </ul>
                             </div>
@@ -128,7 +122,7 @@
                                     </div>
                                     <div class="sidebar__call-details">
                                         <h3 class="sidebar__call-title">Consult with a <br> Professional</h3>
-                                        <h4 class="sidebar__call-number"><a href="tel:1122115751">(11) 22 11-5751</a></h4>
+                                        <h4 class="sidebar__call-number"><a href="tel:9812175856">+91 9812175856</a></h4>
                                         <p class="sidebar__call-text">Contact us in case of emergency</p>
                                     </div>
                                 </div>
@@ -136,9 +130,6 @@
                             <div class="service-details__brochures">
                                 <h3 class="service-details__title">Our Brochures</h3>
                                 <ul class="service-details__brochures-list list-unstyled">
-
-                                    <li><a href="#">Download this file <i>120kb</i> <span class="icon-download"></span></a></li>
-
                                     <li class="active"><a href="#">Download file <span class="icon-download"></span></a></li>
 
                                 </ul>
@@ -148,31 +139,31 @@
                     <div class="col-xl-8 col-lg-7">
                         <div class="service-details__right">
                             <div class="service-details__content">
-                                <h3 class="service-details__content-title">Outdoor Designing</h3>
-                                <p class="service-details__text-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
-                                <p class="service-details__text-2">When enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                                <h3 class="service-details__content-title">Wooden Mouldings</h3>
+                                <p class="service-details__text-1">At Ruby Wooden, we manufacture and supply high-quality wooden mouldings designed to add elegance, structure, and character to interiors. Our mouldings are crafted with precision to enhance walls, ceilings, doors, windows, furniture, and decorative elements.</p>
+                                <p class="service-details__text-2">We offer a wide variety of moulding profiles, finishes, and sizes suitable for both residential and commercial spaces. Each moulding is produced using quality wood and advanced finishing techniques to ensure durability and a refined appearance.</p>
                                 <div class="service-details__img-one">
                                     <img src="assets/images/services/service-details-img-5.jpg" alt="">
                                 </div>
                                 <h4 class="service-details__content-title-two">Furniture Solutions</h4>
-                                <p class="service-details__text-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inciidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercit Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
-                                <p class="service-details__text-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                <p class="service-details__text-3">At Ruby Wooden, our wooden moulding solutions are designed to enhance interiors with refined detailing and lasting quality. We craft mouldings that seamlessly blend with furniture, walls, ceilings, doors, and architectural elements to create a polished and elegant finish.</p>
+                                <p class="service-details__text-4">At Ruby Wooden, our wooden moulding solutions are designed to enhance interiors with refined detailing and lasting quality. We craft mouldings that seamlessly blend with furniture, walls, ceilings, doors, and architectural elements to create a polished and elegant finish.</p>
                             </div>
                             <div class="service-details__points-box">
                                 <ul class="list-unstyled service-details__points">
                                     <li>
                                         <div class="service-details__points-icon-box">
                                             <span class="icon-outdoor-table-wood"></span>
-                                            <h4>Loft Conversions</h4>
+                                            <h4>Precision Moulding Profiles</h4>
                                         </div>
-                                        <p class="service-details__points-text">Lorem ipsum is so ubiquitous wood because it is so versatile Select how many paragraphs you want</p>
+                                        <p class="service-details__points-text">Expertly crafted wooden mouldings with accurate profiles and smooth finishes. Designed to enhance walls, ceilings, furniture edges, doors, and architectural details with strength and elegance.</p>
                                     </li>
                                     <li>
                                         <div class="service-details__points-icon-box">
                                             <span class="icon-window"></span>
-                                            <h4>Design and Build</h4>
+                                            <h4>Custom Design & Finishing</h4>
                                         </div>
-                                        <p class="service-details__points-text">Lorem ipsum is so ubiquitous wood because it is so versatile Select how many paragraphs you want</p>
+                                        <p class="service-details__points-text">We offer custom moulding designs with superior finishing options to match modern and classic interiors. Each piece is carefully finished to ensure durability, consistency, and a premium look.</p>
                                     </li>
                                 </ul>
                             </div>
@@ -193,7 +184,7 @@
                                                         <i class="icon-draw-check-mark"></i>
                                                     </div>
                                                     <div class="text">
-                                                        <p>Excellent Reputation</p>
+                                                        <p>Enhanced interior aesthetics</p>
                                                     </div>
                                                 </li>
                                                 <li>
@@ -201,7 +192,7 @@
                                                         <i class="icon-draw-check-mark"></i>
                                                     </div>
                                                     <div class="text">
-                                                        <p>Fully Qualified</p>
+                                                        <p>Strong and long-lasting material</p>
                                                     </div>
                                                 </li>
                                                 <li>
@@ -209,7 +200,7 @@
                                                         <i class="icon-draw-check-mark"></i>
                                                     </div>
                                                     <div class="text">
-                                                        <p>Building Guarantee</p>
+                                                        <p>Perfect finishing for walls and furniture</p>
                                                     </div>
                                                 </li>
                                                 <li>
@@ -217,7 +208,15 @@
                                                         <i class="icon-draw-check-mark"></i>
                                                     </div>
                                                     <div class="text">
-                                                        <p>Over 40 years Combined Experience</p>
+                                                        <p>Custom designs to suit any interior style</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <i class="icon-draw-check-mark"></i>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Cost-effective decorative solutions</p>
                                                     </div>
                                                 </li>
                                             </ul>
@@ -225,8 +224,8 @@
                                     </div>
                                 </div>
                                 <div class="service-details__benefits-bottom">
-                                    <h3 class="service-details__benefits-title-two">The Benefits of Services</h3>
-                                    <p class="service-details__benefits-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temp incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                    <h3 class="service-details__benefits-title-two">We’re a Professional Wooden Moulding Manufacturer</h3>
+                                    <p class="service-details__benefits-text">With skilled craftsmanship and modern tools, Ruby Wooden delivers mouldings that meet high standards of quality and design.</p>
                                 </div>
                             </div>
                             <div class="service-details__faq">
@@ -243,21 +242,21 @@
                                     </div>
                                     <div class="accrodion last-chiled">
                                         <div class="accrodion-title">
-                                            <h4>Professional Wood work Installers</h4>
+                                            <h4>Skilled Wood Craftsmanship</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci idunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud we pride ourselves</p>
+                                                <p>Our experienced craftsmen ensure accurate profiles, smooth finishes, and uniform quality in every moulding.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                     <div class="accrodion">
                                         <div class="accrodion-title">
-                                            <h4>Competitive Pricing</h4>
+                                            <h4>Affordable & Competitive Pricing</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci idunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud we pride ourselves</p>
+                                                <p>We offer premium-quality wooden mouldings at competitive prices for individual, interior designer, and wholesale requirements.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>

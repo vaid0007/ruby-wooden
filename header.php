@@ -59,9 +59,16 @@
                                         </li>
                                          <li>
                                             <a href="about.php">About</a>
+
                                         </li>
                                         <li class="dropdown">
-                                            <a href="service.php">Services</a>
+                                            <a href="#">Services</a>
+                                            <ul>
+                                                        <li><a href="Wooden_Photo_Frame_Manufacturing.php">Wooden Photo Frames</a></li>
+                                                        <li><a href="Woode_ Mouldings_and_Trim_Profiles.php">Wooden Mouldings</a></li>
+                                                        <li><a href="Photo_Frame_Accessories.php">Frame Accessories</a></li>
+                                                        <li><a href="Custom_Frame_and_Moulding_Orders.php">Custom Frame & Moulding Orders</a></li>
+                                                    </ul>
                                         </li>
                                         <li class="dropdown">
                                             <a href="gallery.php">Gallery</a>
