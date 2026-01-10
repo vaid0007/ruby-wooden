@@ -72,7 +72,7 @@
 
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg-2.jpg)">
+            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg-2b.jpg)">
             </div>
             <div class="container">
                 <div class="page-header__inner">
@@ -103,13 +103,13 @@
                 data-wow-duration="2500ms">
                     <div class="why-choose-three__img-box">
                         <div class="why-choose-three__img">
-                            <img src="assets/images/resources/why-choose-three-img-1.jpg" alt="">
+                            <img src="assets/images/resources/why-choose-three-img-1a.jpg" alt="">
                             <div class="why-choose-three__dot">
                                 <img src="assets/images/shapes/why-choose-three-dot.png" alt="">
                             </div>
                         </div>
                         <div class="why-choose-three__img-two">
-                            <img src="assets/images/resources/why-choose-three-img-2.jpg" alt="">
+                            <img src="assets/images/resources/why-choose-three-img-2a.jpg" alt="">
                         </div>
                         <div class="why-choose-three__border"></div>
                         <div class="why-choose-three__customer-service">
@@ -163,7 +163,7 @@
                         <div class="why-choose-three__user-left">
                             <div class="why-choose-three__user-left-img-box">
                                 <div class="why-choose-three__user-left-img">
-                                    <img src="assets/images/resources/why-choose-three-left-img.jpg" alt="">
+                                    <img src="assets/images/resources/why-choose-three-left-imga.jpg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -201,7 +201,7 @@
                 <div class="problem-solved-three__left wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                     <div class="problem-solved-three__img-box">
                         <div class="problem-solved-three__img">
-                            <img src="assets/images/resources/problem-solved-img-1.jpg" alt="">
+                            <img src="assets/images/resources/problem-solved-img-1a.jpg" alt="">
                         </div>
                     </div>
                     <div class="problem-solved-three__content">
@@ -351,7 +351,7 @@
                         <div class="about-history-three__img-one">
                             <img src="assets/images/resources/about-history-img-1.jpg" alt="">
                             <div class="about-history-three__img-two">
-                                <img src="assets/images/resources/about-history-img-2.jpg" alt="">
+                                <img src="assets/images/resources/about-history-img-2a.jpg" alt="">
                             </div>
                         </div>
                         <div class="about-history-three__content">
@@ -370,7 +370,7 @@
                 <div class="col-xl-3">
                     <div class="about-history-three__right">
                         <div class="about-history-three__right-img">
-                            <img src="assets/images/resources/about-history-three-right-img.jpg" alt="">
+                            <img src="assets/images/resources/about-history-three-right-imga.jpg" alt="">
                             <div class="about-history-three__video-link">
                                 <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
                                     <div class="about-history-three__video-icon">
@@ -453,7 +453,7 @@
 
         <!--Testimonial Three Start-->
         <section class="testimonial-three">
-    <div class="testimonial-three-bg" style="background-image: url(assets/images/backgrounds/testimonial-three-bg.jpg);"></div>
+    <div class="testimonial-three-bg" style="background-image: url(assets/images/backgrounds/testimonial-three-bga.jpg);"></div>
     <div class="container">
         <div class="row">
 
