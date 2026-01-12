@@ -260,7 +260,7 @@
             <img src="assets/images/icon/famous-company-icon-2.png" alt="" />
           </div>
           <h3 class="famous-company__title">
-            <a href="about.php">Branded Quality</a>
+            <a href="about.php">Branded</br> Quality</a>
           </h3>
           <p class="famous-company__text">
             Trusted branded materials ensuring durability and perfect finish.
@@ -304,7 +304,7 @@
             <img src="assets/images/icon/famous-company-icon-4.png" alt="" />
           </div>
           <h3 class="famous-company__title">
-            <a href="products.php">Framing Tools</a>
+            <a href="products.php">Framing </br>Tools</a>
           </h3>
           <p class="famous-company__text">
             Complete range of framing tools, machines, and accessories.
@@ -726,7 +726,7 @@
           </div>
           <div class="problem-solved__btn-box">
             <a href="products.php" class="thm-btn problem-solved__btn">
-              Explore Products
+              Explore
             </a>
           </div>
           <div class="problem-solved__shape-1 float-bob-x"></div>
@@ -895,66 +895,6 @@
 </section>
 
       <!--Project One End-->
-
-      <!--Team One Start-->
-      <section class="team-one">
-  <div class="container">
-    <div class="section-title text-center">
-      <span class="section-title__tagline">Our Team</span>
-      <h2 class="section-title__title">Meet the Leadership</h2>
-    </div>
-    <div class="row">
-
-      <!-- Team Member 1 -->
-      <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
-        <div class="team-one__single">
-          <div class="team-one__img">
-            <img src="assets/images/team/team-1-1.jpg" alt="" />
-            <div class="team-one__content">
-              <p class="team-one__sub-title">Founder</p>
-              <h3 class="team-one__title">
-                <a href="team.html">Sanjay Aggarwal</a>
-              </h3>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Team Member 2 -->
-      <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-        <div class="team-one__single">
-          <div class="team-one__img">
-            <img src="assets/images/team/team-1-2.jpg" alt="" />
-            <div class="team-one__content">
-              <p class="team-one__sub-title">Co-Founder</p>
-              <h3 class="team-one__title">
-                <a href="team.html">Rishab Aggarwal</a>
-              </h3>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Team Member 3 -->
-      <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
-        <div class="team-one__single">
-          <div class="team-one__img">
-            <img src="assets/images/team/team-1-3.jpg" alt="" />
-            <div class="team-one__content">
-              <p class="team-one__sub-title">Operations & Sales</p>
-              <h3 class="team-one__title">
-                <a href="team.html">Beenu Traders Team</a>
-              </h3>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </div>
-</section>
-
-      <!--Team One End-->
 
       <!--Counter One Start-->
       <section class="counter-one">
@@ -1202,7 +1142,7 @@
             />
             <div class="about-history__two">
               <img
-                src="assets/images/resources/about-history-img-2.jpg"
+                src="assets/images/resources/about-history-img-2a.jpg"
                 alt=""
               />
             </div>

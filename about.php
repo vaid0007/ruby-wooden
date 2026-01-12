@@ -398,14 +398,6 @@
                     <div class="about-history-three__right">
                         <div class="about-history-three__right-img">
                             <img src="assets/images/resources/about-history-three-right-imga.jpg" alt="">
-                            <div class="about-history-three__video-link">
-                                <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
-                                    <div class="about-history-three__video-icon">
-                                        <span class="fa fa-play"></span>
-                                        <i class="ripple"></i>
-                                    </div>
-                                </a>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -419,7 +411,7 @@
         <!--Statment End-->
 
         <!--Team One Start-->
-        <section class="team-one about-page-team">
+        <!-- <section class="team-one about-page-team">
     <div class="container">
         <div class="section-title text-center">
             <span class="section-title__tagline">Our Team</span>
@@ -427,7 +419,6 @@
         </div>
         <div class="row">
 
-            <!-- Team Member 1 -->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
                 <div class="team-one__single">
                     <div class="team-one__img">
@@ -442,7 +433,6 @@
                 </div>
             </div>
 
-            <!-- Team Member 2 -->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                 <div class="team-one__single">
                     <div class="team-one__img">
@@ -457,7 +447,6 @@
                 </div>
             </div>
 
-            <!-- Team Member 3 -->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                 <div class="team-one__single">
                     <div class="team-one__img">
@@ -474,7 +463,7 @@
 
         </div>
     </div>
-</section>
+</section> -->
 
         <!--Team One End-->
 
