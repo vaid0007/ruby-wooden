@@ -34,11 +34,11 @@
                                 </div>
                                 <ul class="footer-widget__service-list list-unstyled clearfix">
                                     <li><a href="carpentry.html">Carpentry</a></li>
-                                    <li><a href="hardwood-flooring.html">Hardwood flooring</a></li>
-                                    <li><a href="celling-roofing.html">Ceiling & roofing</a></li>
-                                    <li><a href="heavy-room.html">Heavy room</a></li>
+                                    <li><a href="hardwood-flooring.html">Hardwood Flooring</a></li>
+                                    <li><a href="celling-roofing.html">Ceiling & Roofing</a></li>
+                                    <li><a href="heavy-room.html">Heavy Room</a></li>
                                     <li><a href="house-renovation.html">House Renovation</a></li>
-                                    <li><a href="hardwood-wall.html">Hardwood wall</a></li>
+                                    <li><a href="hardwood-wall.html">Hardwood Wall</a></li>
                                 </ul>
                             </div>
                         </div>

@@ -416,23 +416,29 @@
                                 <h2>Have questions feel free to write us </h2>
                                 <p>Lorem ipsum dolor sed quia non numquam qui ratione voluptatem sequi nesciunt.</p>
                             </div>
-                            <ul class="list-unstyled contact-one__list">
-                                <li>
+                            <ul class="list-unstyled contact-page__list">
+                                 <li>
                                     <div class="icon">
                                         <span class="icon-phone"></span>
                                     </div>
                                     <div class="content">
-                                        <p>Phone Number</p>
-                                        <h4><a href="tel:8857002451">(88) 5700-24-51 Call</a></h4>
+                                        <h5>Phone</h5>
+                                        <p>
+                                            <p><a href="tel:9812175856">+91 9812175856</a></p>
+                                            <p><a href="tel:9813697331">+91 9813697331</a></p>
+                                            <p><a href="tel:9818161071">+91 9818161071</a></p>
+                                        </p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="icon">
-                                        <span class="icon-location"></span>
+                                        <span class="icon-email"></span>
                                     </div>
                                     <div class="content">
-                                        <p>Phone Number</p>
-                                        <h4>#14 State,12 road 414 RA <br> barlin Germany</h4>
+                                        <h5>Email Address</h5>
+                                        <p>
+                                            <a href="">sanjay1966rd@gmail.com</span></a>
+                                        </p>
                                     </div>
                                 </li>
                             </ul>
