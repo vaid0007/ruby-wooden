@@ -102,7 +102,7 @@
                     <div class="col-xl-4 col-lg-5">
                         <div class="contact-page__left">
                             <h4 class="contact-page__title">Feel free to ask questions or share your message with us.</h4>
-                            <p class="contact-page__text-1">You can also reach out to us by phone or email are many variations</p>
+                            <p class="contact-page__text-1">You can reach out to us through phone or email for any assistance.</p>
                             <ul class="list-unstyled contact-page__list">
                                 <li>
                                     <div class="icon">
@@ -143,7 +143,7 @@
                     <div class="col-xl-8 col-lg-7">
                         <div class="contact-page__right">
                             <h3 class="contact-page__right-title">Send a message</h3>
-                            <p class="contact-page__right-text">xWe'd love to hear for you</p>
+                            <p class="contact-page__right-text">We’d be happy to hear from you.</p>
                             <form action="https://themazine.com/mr/woodza-html/assets/inc/sendemail.php" class="contact-page__form contact-form-validated" novalidate="novalidate">
                                 <div class="row">
                                     <div class="col-xl-6 col-lg-6">
@@ -170,7 +170,7 @@
                                 <div class="row">
                                     <div class="col-xl-12">
                                         <div class="contact-page__input-box text-message-box">
-                                            <textarea name="message" placeholder="Type Messages"></textarea>
+                                            <textarea name="message" placeholder="Type Your Message"></textarea>
                                         </div>
                                         <div class="contact-page__btn-box">
                                             <button type="submit" class="contact-page__btn">Send A Message</button>
