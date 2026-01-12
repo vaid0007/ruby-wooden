@@ -183,7 +183,7 @@
 
         <!--Testimonial Three Start-->
         <section class="testimonial-three">
-            <div class="testimonial-three-bg" style="background-image: url(assets/images/backgrounds/testimonial-three-bg.jpg);"></div>
+            <div class="testimonial-three-bg" style="background-image: url(assets/images/backgrounds/testimonial-three-bga.jpg);"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-xl-5">
@@ -363,7 +363,7 @@
                     <ul class="list-unstyled counter-two__list">
                         <li class="wow fadeInUp" data-wow-delay="100ms">
                             <div class="counter-two__count-box">
-                                <h3 class="odometer" data-count="30">00</h3>
+                                <h3 class="odometer" data-count="25">00</h3>
                                 <span class="counter-two__plus">+</span>
                             </div>
                             <p class="counter-two__text">Years of experience</p>
@@ -413,7 +413,7 @@
                             <div class="contact-one__shape-1"></div>
                             <div class="contact-one__shape-2"></div>
                             <div class="contact-one__title">
-                                <h2>Have questions feel free to write us </h2>
+                                <h2>Have questions?..Feel free to write us </h2>
                                 <p>Lorem ipsum dolor sed quia non numquam qui ratione voluptatem sequi nesciunt.</p>
                             </div>
                             <ul class="list-unstyled contact-page__list">

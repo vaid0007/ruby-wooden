@@ -420,7 +420,7 @@
             finishing, and customer satisfaction across every product we supply.
           </p>
 
-          <div class="why-choose-one__bottom">
+          <!-- <div class="why-choose-one__bottom">
             <div class="why-choose-one__bottom-content">
               <p class="why-choose-one__bottom-text">
                 Delivering quality framing solutions you can trust.
@@ -440,7 +440,7 @@
                 />
               </div>
             </div>
-          </div>
+          </div> -->
 
         </div>
       </div>
@@ -1012,7 +1012,7 @@
       <!--Counter One End-->
 
       <!--Testimonial One Start-->
-      <section class="counter-one">
+      <!-- <section class="counter-one">
   <div class="container">
     <ul class="list-unstyled counter-one__list">
 
@@ -1062,7 +1062,7 @@
 
     </ul>
   </div>
-</section>
+</section> -->
 
       <!--Testimonial One End-->
 
@@ -1096,20 +1096,20 @@
               <ul class="list-unstyled blog-one__meta">
                 <li>
                   <i class="icon-user"></i>
-                  <a href="blog-details.html">By Beenu Traders</a>
+                  <a href="blog.php">By Beenu Traders</a>
                 </li>
                 <li>
                   <i class="icon-clock"></i>
-                  <a href="blog-details.html">Latest</a>
+                  <a href="blog.php">Latest</a>
                 </li>
               </ul>
               <h3 class="blog-one__title">
-                <a href="blog-details.html">
+                <a href="blog.php">
                   How to Choose the Right Frame Moulding for Your Artwork
                 </a>
               </h3>
               <div class="blog-one__arrow">
-                <a href="blog-details.html">
+                <a href="blog.php">
                   Read More <span class="icon-right-arrow-1"></span>
                 </a>
               </div>
@@ -1130,20 +1130,20 @@
               <ul class="list-unstyled blog-one__meta">
                 <li>
                   <i class="icon-user"></i>
-                  <a href="blog-details.html">By Beenu Traders</a>
+                  <a href="blog.php">By Beenu Traders</a>
                 </li>
                 <li>
                   <i class="icon-clock"></i>
-                  <a href="blog-details.html">Latest</a>
+                  <a href="blog.php">Latest</a>
                 </li>
               </ul>
               <h3 class="blog-one__title">
-                <a href="blog-details.html">
+                <a href="blog.php">
                   Imported vs Branded Frames: What’s Best for Your Business?
                 </a>
               </h3>
               <div class="blog-one__arrow">
-                <a href="blog-details.html">
+                <a href="blog.php">
                   Read More <span class="icon-right-arrow-1"></span>
                 </a>
               </div>
@@ -1164,20 +1164,20 @@
               <ul class="list-unstyled blog-one__meta">
                 <li>
                   <i class="icon-user"></i>
-                  <a href="blog-details.html">By Beenu Traders</a>
+                  <a href="blog.php">By Beenu Traders</a>
                 </li>
                 <li>
                   <i class="icon-clock"></i>
-                  <a href="blog-details.html">Latest</a>
+                  <a href="blog.php">Latest</a>
                 </li>
               </ul>
               <h3 class="blog-one__title">
-                <a href="blog-details.html">
-                  Essential Framing Tools Every Professional Must Have
+                <a href="blog.php">
+                  Essential Framing Tools That Every Professional Must Have With Them
                 </a>
               </h3>
               <div class="blog-one__arrow">
-                <a href="blog-details.html">
+                <a href="blog.php">
                   Read More <span class="icon-right-arrow-1"></span>
                 </a>
               </div>
