@@ -5,41 +5,50 @@
     http-equiv="content-type"
     content="text/html;charset=utf-8"
   /><!-- /Added by HTTrack -->
-  <head>
+<head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <!-- SEO Title (ONLY CHANGE) -->
+  <!-- ===== PRIMARY SEO ===== -->
   <title>Ruby Wooden | Premium Interior & Wooden Furniture Solutions</title>
 
-  <!-- SEO Meta (ONLY ADDITION) -->
-  <meta
-    name="description"
-    content="Ruby Wooden offers premium interior design, custom wooden furniture, modular kitchens, and turnkey interior solutions with expert craftsmanship."
-  />
+  <meta name="description" content="Ruby Wooden offers premium interior design, custom wooden furniture, modular kitchens, and turnkey interior solutions with expert craftsmanship." />
+  <meta name="keywords" content="Ruby Wooden, Interior Design, Wooden Furniture, Modular Kitchen, Custom Furniture, Turnkey Interior Solutions, Wooden Interiors" />
+  <meta name="author" content="Ruby Wooden" />
   <meta name="robots" content="index, follow" />
 
-  <!-- favicons Icons (UNCHANGED) -->
+  <!-- ===== CANONICAL URL ===== -->
+  <link rel="canonical" href="https://www.rubywooden.com/" />
+
+  <!-- ===== OPEN GRAPH (FACEBOOK / WHATSAPP) ===== -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Ruby Wooden | Premium Interior & Wooden Furniture Solutions" />
+  <meta property="og:description" content="Premium interior design, custom wooden furniture, modular kitchens, and turnkey interior solutions by Ruby Wooden." />
+  <meta property="og:url" content="https://www.rubywooden.com/" />
+  <meta property="og:image" content="https://www.rubywooden.com/assets/images/og-image.jpg" />
+  <meta property="og:site_name" content="Ruby Wooden" />
+
+  <!-- ===== TWITTER CARD ===== -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Ruby Wooden | Premium Interior Solutions" />
+  <meta name="twitter:description" content="Custom wooden furniture & premium interior solutions by Ruby Wooden." />
+  <meta name="twitter:image" content="https://www.rubywooden.com/assets/images/og-image.jpg" />
+
+  <!-- ===== FAVICONS (UNCHANGED) ===== -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
 
-  <!-- fonts (UNCHANGED) -->
+  <!-- ===== GOOGLE FONTS (UNCHANGED) ===== -->
   <link rel="preconnect" href="https://fonts.googleapis.com/" />
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
 
-  <link
-    href="https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
-    rel="stylesheet"
-  />
+  <link href="https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet" />
 
-  <link
-    href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&amp;display=swap"
-    rel="stylesheet"
-  />
+  <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet" />
 
-  <!-- ALL CSS FILES BELOW ARE 100% UNCHANGED -->
+  <!-- ===== ALL CSS FILES (100% UNCHANGED) ===== -->
   <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
   <link rel="stylesheet" href="assets/vendors/animate/custom-animate.css" />
@@ -62,11 +71,10 @@
   <link rel="stylesheet" href="assets/vendors/timepicker/timePicker.css" />
   <link rel="stylesheet" href="assets/vendors/polyglot-language-switcher/polyglot-language-switcher.css" />
 
-  <!-- template styles -->
+  <!-- ===== TEMPLATE STYLES (UNCHANGED) ===== -->
   <link rel="stylesheet" href="assets/css/woodza.css" />
   <link rel="stylesheet" href="assets/css/woodza-responsive.css" />
 </head>
-
 
   <body class="custom-cursor">
     <div class="custom-cursor__cursor"></div>
@@ -118,11 +126,11 @@
                       <p class="main-slider__sub-title">
                         Imported & Branded Mouldings
                       </p>
-                      <h2 class="main-slider__title">
+                      <h1 class="main-slider__title">
                         Premium Frame <br />
                         Mouldings & <br />
                         Accessories
-                      </h2>
+                      </h1>
                       <div class="main-slider__btn-box">
                         <a href="products.php" class="thm-btn main-slider__btn"
                           >View Products</a
