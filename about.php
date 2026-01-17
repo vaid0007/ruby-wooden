@@ -8,29 +8,63 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <!-- SEO Title (SAFE CHANGE) -->
+  <!-- ===== PRIMARY SEO ===== -->
   <title>About Ruby Wooden | Interior Design & Wooden Furniture Experts</title>
 
-  <!-- SEO Description (SAFE CHANGE) -->
   <meta
     name="description"
     content="Learn about Ruby Wooden, a trusted interior design and wooden furniture company delivering custom interiors, modular kitchens, and turnkey solutions with expert craftsmanship."
   />
+  <meta
+    name="keywords"
+    content="About Ruby Wooden, Interior Design Company, Wooden Furniture Experts, Modular Kitchen Designers, Turnkey Interior Solutions"
+  />
+  <meta name="author" content="Ruby Wooden" />
+  <meta name="robots" content="index, follow" />
 
-  <!-- favicons Icons (UNCHANGED) -->
+  <!-- ===== CANONICAL URL ===== -->
+  <link rel="canonical" href="https://www.rubywooden.com/about" />
+
+  <!-- ===== OPEN GRAPH (FACEBOOK / WHATSAPP) ===== -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="About Ruby Wooden | Interior Design Experts" />
+  <meta
+    property="og:description"
+    content="Discover Ruby Wooden – experts in premium interior design, custom wooden furniture, and turnkey interior solutions."
+  />
+  <meta property="og:url" content="https://www.rubywooden.com/about" />
+  <meta property="og:image" content="https://www.rubywooden.com/assets/images/og-image.jpg" />
+  <meta property="og:site_name" content="Ruby Wooden" />
+
+  <!-- ===== TWITTER CARD ===== -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="About Ruby Wooden | Interior Design Experts" />
+  <meta
+    name="twitter:description"
+    content="Premium interior design and wooden furniture solutions by Ruby Wooden."
+  />
+  <meta name="twitter:image" content="https://www.rubywooden.com/assets/images/og-image.jpg" />
+
+  <!-- ===== FAVICONS (UNCHANGED) ===== -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon1.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
 
-  <!-- fonts (UNCHANGED) -->
+  <!-- ===== GOOGLE FONTS (UNCHANGED) ===== -->
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
-  <link href="https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&amp;display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    rel="stylesheet"
+  />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap"
+    rel="stylesheet"
+  />
 
-  <!-- ALL CSS BELOW UNCHANGED -->
+  <!-- ===== ALL CSS FILES (UNCHANGED) ===== -->
   <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
   <link rel="stylesheet" href="assets/vendors/animate/custom-animate.css" />
@@ -53,11 +87,10 @@
   <link rel="stylesheet" href="assets/vendors/timepicker/timePicker.css" />
   <link rel="stylesheet" href="assets/vendors/polyglot-language-switcher/polyglot-language-switcher.css" />
 
-  <!-- template styles -->
+  <!-- ===== TEMPLATE STYLES (UNCHANGED) ===== -->
   <link rel="stylesheet" href="assets/css/woodza.css" />
   <link rel="stylesheet" href="assets/css/woodza-responsive.css" />
 </head>
-
 
 <body class="custom-cursor">
 
@@ -83,7 +116,7 @@
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>About us</h2>
+                    <h1 class="fw-bold display-5 text-white lh-sm">About us</h1>
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.html">Home</a></li>
                         <li><span>/</span></li>
