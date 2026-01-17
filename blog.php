@@ -102,7 +102,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="blog-one__single">
                             <div class="blog-one__img">
-                                <img src="assets/images/blog/blog-1-1.jpg" alt="">
+                                <img src="assets/images/blog/blog-2-1.jpg" alt="">
                             </div>
                             <div class="blog-one__content">
                                 <ul class="list-unstyled blog-one__meta">
@@ -130,7 +130,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="blog-one__single">
                             <div class="blog-one__img">
-                                <img src="assets/images/blog/blog-1-2.jpg" alt="">
+                                <img src="assets/images/blog/blog-2-2.png" alt="">
                             </div>
                             <div class="blog-one__content">
                                 <ul class="list-unstyled blog-one__meta">
@@ -158,7 +158,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                         <div class="blog-one__single">
                             <div class="blog-one__img">
-                                <img src="assets/images/blog/blog-1-3.jpg" alt="">
+                                <img src="assets/images/blog/blog-2-3.jpg" alt="">
                             </div>
                             <div class="blog-one__content">
                                 <ul class="list-unstyled blog-one__meta">
@@ -186,7 +186,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                         <div class="blog-one__single">
                             <div class="blog-one__img">
-                                <img src="assets/images/blog/blog-1-4.jpg" alt="">
+                                <img src="assets/images/blog/blog-2-4.jpg" alt="">
                             </div>
                             <div class="blog-one__content">
                                 <ul class="list-unstyled blog-one__meta">
@@ -214,7 +214,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__img">
-                                <img src="assets/images/blog/blog-1-5.jpg" alt="">
+                                <img src="assets/images/blog/blog-2-5.jpg" alt="">
                             </div>
                             <div class="blog-one__content">
                                 <ul class="list-unstyled blog-one__meta">
@@ -242,7 +242,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="600ms">
                         <div class="blog-one__single">
                             <div class="blog-one__img">
-                                <img src="assets/images/blog/blog-1-6.jpg" alt="">
+                                <img src="assets/images/blog/blog-2-6.jpg" alt="">
                             </div>
                             <div class="blog-one__content">
                                 <ul class="list-unstyled blog-one__meta">

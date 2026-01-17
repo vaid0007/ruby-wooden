@@ -341,7 +341,7 @@
           <div class="why-choose-one__img-box">
             <div class="why-choose-one__img">
               <img
-                src="assets/images/resources/why-choose-one-img-1a.jpg"
+                src="assets/images/resources/why-choose-one-img-1aa.jpg"
                 alt=""
               />
               <div class="why-choose-one__dot float-bob-y">
@@ -353,7 +353,7 @@
             </div>
             <div class="why-choose-one__img-two">
               <img
-                src="assets/images/resources/why-choose-one-img-2a.jpg"
+                src="assets/images/resources/why-choose-one-img-2aa.jpg"
                 alt=""
               />
             </div>
@@ -1030,7 +1030,7 @@
         <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
           <div class="blog-one__single">
             <div class="blog-one__img">
-              <img src="assets/images/blog/blog-1-1.jpg" alt="" />
+              <img src="assets/images/blog/blog-1-1a.jpg" alt="" />
             </div>
             <div class="blog-one__content">
               <ul class="list-unstyled blog-one__meta">
@@ -1064,7 +1064,7 @@
         <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
           <div class="blog-one__single">
             <div class="blog-one__img">
-              <img src="assets/images/blog/blog-1-2.jpg" alt="" />
+              <img src="assets/images/blog/blog-1-2a.jpg" alt="" />
             </div>
             <div class="blog-one__content">
               <ul class="list-unstyled blog-one__meta">
@@ -1098,7 +1098,7 @@
         <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
           <div class="blog-one__single">
             <div class="blog-one__img">
-              <img src="assets/images/blog/blog-1-3.jpg" alt="" />
+              <img src="assets/images/blog/blog-1-3a.jpg" alt="" />
             </div>
             <div class="blog-one__content">
               <ul class="list-unstyled blog-one__meta">

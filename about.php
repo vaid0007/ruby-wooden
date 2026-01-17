@@ -114,7 +114,7 @@
           <div class="why-choose-one__img-box">
             <div class="why-choose-one__img">
               <img
-                src="assets/images/resources/why-choose-one-img-1a.jpg"
+                src="assets/images/resources/why-choose-one-img-1aa.jpg"
                 alt=""
               />
               <div class="why-choose-one__dot float-bob-y">
@@ -126,7 +126,7 @@
             </div>
             <div class="why-choose-one__img-two">
               <img
-                src="assets/images/resources/why-choose-one-img-2a.jpg"
+                src="assets/images/resources/why-choose-one-img-2aa.jpg"
                 alt=""
               />
             </div>
@@ -190,7 +190,7 @@
                         <div class="why-choose-three__user-left">
                             <div class="why-choose-three__user-left-img-box">
                                 <div class="why-choose-three__user-left-img">
-                                    <img src="assets/images/resources/why-choose-three-left-imga.jpg" alt="">
+                                    <img src="assets/images/resources/why-choose-three-left-imgaa.jpg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -397,7 +397,7 @@
                 <div class="col-xl-3">
                     <div class="about-history-three__right">
                         <div class="about-history-three__right-img">
-                            <img src="assets/images/resources/about-history-three-right-imga.jpg" alt="">
+                            <img src="assets/images/resources/about-history-three-right-imgaa.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -500,7 +500,7 @@
                                 <div class="testimonial-three__client-info">
                                     <div class="testimonial-three__client-details">
                                         <div class="testimonial-three__client-img">
-                                            <img src="assets/images/testimonial/testimonial-three-client-img-2.jpg" alt="">
+                                            <img src="assets/images/testimonial/testimonial-three-client-img-2a.jpg" alt="">
                                         </div>
                                         <div class="testimonial-three__client-content">
                                             <h4>Amit Sharma</h4>
@@ -524,7 +524,7 @@
                                 <div class="testimonial-three__client-info">
                                     <div class="testimonial-three__client-details">
                                         <div class="testimonial-three__client-img">
-                                            <img src="assets/images/testimonial/testimonial-three-client-img-1.jpg" alt="">
+                                            <img src="assets/images/testimonial/testimonial-three-client-img-1a.jpg" alt="">
                                         </div>
                                         <div class="testimonial-three__client-content">
                                             <h4>Neeraj Gupta</h4>
@@ -548,7 +548,7 @@
                                 <div class="testimonial-three__client-info">
                                     <div class="testimonial-three__client-details">
                                         <div class="testimonial-three__client-img">
-                                            <img src="assets/images/testimonial/testimonial-three-client-img-2.jpg" alt="">
+                                            <img src="assets/images/testimonial/testimonial-three-client-img-2b.jpg" alt="">
                                         </div>
                                         <div class="testimonial-three__client-content">
                                             <h4>Sandeep Mehta</h4>
