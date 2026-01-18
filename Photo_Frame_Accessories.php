@@ -118,7 +118,7 @@
                 <div class="page-header__inner">
                     <h1 class="fw-bold display-5 text-white lh-sm">Outdoor Designing</h1>
                     <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><span>/</span></li>
                         <li><a href="services.html">services</a></li>
                         <li><span>/</span></li>
@@ -316,7 +316,7 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/footer-logo.png" width="143"
+                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/footer-logo1.png" width="143"
                         alt="" /></a>
             </div>
             <!-- /.logo-box -->
@@ -326,11 +326,13 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="https://themazine.com/cdn-cgi/l/email-protection#c6a8a3a3a2aea3aab686b6a7a5ada7a1a388a7aba39999e8a5a9ab"><span class="__cf_email__" data-cfemail="a4cac1c1c0ccc1c8d4e4d3cbcbc0dec58ac7cbc9">[email&#160;protected]</span></a>
+                   <a href="mailto:sanjay1966rd@gmail.com">
+  sanjay1966rd@gmail.com
+</a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:666-888-0000">666 888 0000</a>
+                    <a href="tel:+91 98121 75856">+91 98121 75856</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">

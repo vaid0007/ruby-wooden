@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <!-- Mirrored from themazine.com/mr/woodza-html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 02 Jan 2026 07:07:27 GMT -->
+  <!-- Mirrored from themazine.com/mr/woodza-html/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 02 Jan 2026 07:07:27 GMT -->
   <!-- Added by HTTrack --><meta
     http-equiv="content-type"
     content="text/html;charset=utf-8"
@@ -1193,9 +1193,9 @@
         ></span>
 
         <div class="logo-box">
-          <a href="index.html" aria-label="logo image"
+          <a href="index.php" aria-label="logo image"
             ><img
-              src="assets/images/resources/footer-logo.png"
+              src="assets/images/resources/footer-logo1.png"
               width="143"
               alt=""
           /></a>
@@ -1207,18 +1207,13 @@
         <ul class="mobile-nav__contact list-unstyled">
           <li>
             <i class="fa fa-envelope"></i>
-            <a
-              href="https://themazine.com/cdn-cgi/l/email-protection#e18f84848589848d91a19180828a808684af808c84bebecf828e8c"
-              ><span
-                class="__cf_email__"
-                data-cfemail="8ce2e9e9e8e4e9e0fcccfbe3e3e8f6eda2efe3e1"
-                >[email&#160;protected]</span
-              ></a
-            >
+            <a href="mailto:sanjay1966rd@gmail.com">
+  sanjay1966rd@gmail.com
+</a>
           </li>
           <li>
             <i class="fa fa-phone-alt"></i>
-            <a href="tel:666-888-0000">666 888 0000</a>
+            <a href="tel:+91 98121 75856">+91 98121 75856</a>
           </li>
         </ul>
         <!-- /.mobile-nav__contact -->
@@ -1327,5 +1322,5 @@
     </script>
   </body>
 
-  <!-- Mirrored from themazine.com/mr/woodza-html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 02 Jan 2026 07:08:03 GMT -->
+  <!-- Mirrored from themazine.com/mr/woodza-html/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 02 Jan 2026 07:08:03 GMT -->
 </html>

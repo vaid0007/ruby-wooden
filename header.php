@@ -6,7 +6,7 @@
                     <div class="main-header__top-inner clearfix">
                         <div class="main-header__top-left">
                             <div class="main-header__top-logo">
-                               <a href="index.html">
+                               <a href="index.php">
   <img src="assets/images/resources/logo-1ac.png" alt="" style="width: 150px;">
 </a>
 
@@ -38,7 +38,7 @@
                                     </div>
                                     <div class="content">
                                         <p>Phone Number</p>
-                                        <h5><a href="tel:88001152">+91 98121 75856</a></h5>
+                                        <h5><a href="tel:+91 98121 75856">+91 98121 75856</a></h5>
                                     </div>
                                 </li>
                             </ul>
@@ -54,7 +54,7 @@
                                 <div class="main-menu__main-menu-box">
                                     <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                                     <ul class="main-menu__list">
-                                        <li class="dropdown current">
+                                        <li class="current">
                                             <a href="index.php">Home </a>
                                         </li>
                                          <li>
@@ -70,10 +70,10 @@
                                                         <li><a href="Custom_Frame_and_Moulding_Orders.php">Custom Frame & Moulding Orders</a></li>
                                                     </ul>
                                         </li>
-                                        <li class="dropdown">
+                                        <li>
                                             <a href="gallery.php">Gallery</a>
                                         </li>
-                                        <li class="dropdown">
+                                        <li>
                                             <a href="blog.php">Blog</a>
                                         </li>
                                         <li>
@@ -88,7 +88,7 @@
                                         <a href="#" class="main-menu__search search-toggler icon-search-1"></a>
                                     </div>
                                     <div class="main-menu__btn-box">
-                                        <a href="contact.html">Request Book</a>
+                                        <a href="contact.php">Request Book</a>
                                     </div>
                                 </div>
                             </div>

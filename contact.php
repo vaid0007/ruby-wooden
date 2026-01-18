@@ -120,7 +120,7 @@
                    <h1 class="fw-bold display-5 text-white lh-sm">Contact us</h1>
                    <h2></h2>
                     <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><span>/</span></li>
                         <li>Contact us</li>
                     </ul>
@@ -245,7 +245,7 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/footer-logo.png" width="143"
+                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/footer-logo1.png" width="143"
                         alt="" /></a>
             </div>
             <!-- /.logo-box -->
@@ -255,11 +255,13 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="https://themazine.com/cdn-cgi/l/email-protection#07696262636f626b77477766646c66606249666a6258582964686a"><span class="__cf_email__" data-cfemail="026c6767666a676e7242756d6d6678632c616d6f">[email&#160;protected]</span></a>
+                    <a href="mailto:sanjay1966rd@gmail.com">
+  sanjay1966rd@gmail.com
+</a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:666-888-0000">666 888 0000</a>
+                    <a href="tel:+91 98121 75856">+91 98121 75856</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">

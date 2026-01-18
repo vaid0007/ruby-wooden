@@ -7,7 +7,7 @@
                         <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__logo">
-                                    <a href="index.html"><img src="assets/images/resources/logo-1ac.png" alt=""></a>
+                                    <a href="index.php"><img src="assets/images/resources/logo-1ac.png" alt=""></a>
                                 </div>
                                 <div class="footer-widget__about-text-box">
                                     <p class="footer-widget__about-text">Subscribe us and get latest news, tips and

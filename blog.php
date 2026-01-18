@@ -119,7 +119,7 @@
                     <h1 class="fw-bold display-5 text-white lh-sm">Blog Grid View</h1>
                     <h2></h2>
                     <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><span>/</span></li>
                         <li>Blog Grid View</li>
                     </ul>
@@ -142,16 +142,16 @@
                                 <ul class="list-unstyled blog-one__meta">
                                     <li>
                                         <i class="icon-user"></i>
-                                        <a href="blog-details.html">By Admin</a>
+                                        <a href="blog.php">By Admin</a>
                                     </li>
                                     <li>
                                         <i class="icon-clock"></i>
-                                        <a href="blog-details.html">25 April,2022</a>
+                                        <a href="blog.php">25 April,2022</a>
                                     </li>
                                 </ul>
-                                <h3 class="blog-one__title"><a href="blog-details.html">How to Calculate How Much Epoxy For Your Table</a></h3>
+                                <h3 class="blog-one__title"><a href="blog.php">How to Calculate How Much Epoxy For Your Table</a></h3>
                                 <div class="blog-one__arrow">
-                                    <a href="blog-details.html">Learn More <span class="icon-right-arrow-1"></span></a>
+                                    <a href="blog.php">Learn More <span class="icon-right-arrow-1"></span></a>
                                 </div>
                                 <div class="blog-one__tag">
                                     <p>Sideboard</p>
@@ -170,16 +170,16 @@
                                 <ul class="list-unstyled blog-one__meta">
                                     <li>
                                         <i class="icon-user"></i>
-                                        <a href="blog-details.html">By Admin</a>
+                                        <a href="blog.php">By Admin</a>
                                     </li>
                                     <li>
                                         <i class="icon-clock"></i>
-                                        <a href="blog-details.html">25 April,2022</a>
+                                        <a href="blog.php">25 April,2022</a>
                                     </li>
                                 </ul>
-                                <h3 class="blog-one__title"><a href="blog-details.html">Build Your Own Coffee Table Series Complete</a></h3>
+                                <h3 class="blog-one__title"><a href="blog.php">Build Your Own Coffee Table Series Complete</a></h3>
                                 <div class="blog-one__arrow">
-                                    <a href="blog-details.html">Learn More <span class="icon-right-arrow-1"></span></a>
+                                    <a href="blog.php">Learn More <span class="icon-right-arrow-1"></span></a>
                                 </div>
                                 <div class="blog-one__tag">
                                     <p>Carpenter</p>
@@ -198,16 +198,16 @@
                                 <ul class="list-unstyled blog-one__meta">
                                     <li>
                                         <i class="icon-user"></i>
-                                        <a href="blog-details.html">By Admin</a>
+                                        <a href="blog.php">By Admin</a>
                                     </li>
                                     <li>
                                         <i class="icon-clock"></i>
-                                        <a href="blog-details.html">25 April,2022</a>
+                                        <a href="blog.php">25 April,2022</a>
                                     </li>
                                 </ul>
-                                <h3 class="blog-one__title"><a href="blog-details.html">Workshop Floor From Scaffold Boards furniture making</a></h3>
+                                <h3 class="blog-one__title"><a href="blog.php">Workshop Floor From Scaffold Boards furniture making</a></h3>
                                 <div class="blog-one__arrow">
-                                    <a href="blog-details.html">Learn More <span class="icon-right-arrow-1"></span></a>
+                                    <a href="blog.php">Learn More <span class="icon-right-arrow-1"></span></a>
                                 </div>
                                 <div class="blog-one__tag">
                                     <p>Hardwood</p>
@@ -226,16 +226,16 @@
                                 <ul class="list-unstyled blog-one__meta">
                                     <li>
                                         <i class="icon-user"></i>
-                                        <a href="blog-details.html">By Admin</a>
+                                        <a href="blog.php">By Admin</a>
                                     </li>
                                     <li>
                                         <i class="icon-clock"></i>
-                                        <a href="blog-details.html">25 April,2022</a>
+                                        <a href="blog.php">25 April,2022</a>
                                     </li>
                                 </ul>
-                                <h3 class="blog-one__title"><a href="blog-details.html">How To Weather Proof Your Roof This Winter?</a></h3>
+                                <h3 class="blog-one__title"><a href="blog.php">How To Weather Proof Your Roof This Winter?</a></h3>
                                 <div class="blog-one__arrow">
-                                    <a href="blog-details.html">Learn More <span class="icon-right-arrow-1"></span></a>
+                                    <a href="blog.php">Learn More <span class="icon-right-arrow-1"></span></a>
                                 </div>
                                 <div class="blog-one__tag">
                                     <p>Sideboard</p>
@@ -254,16 +254,16 @@
                                 <ul class="list-unstyled blog-one__meta">
                                     <li>
                                         <i class="icon-user"></i>
-                                        <a href="blog-details.html">By Admin</a>
+                                        <a href="blog.php">By Admin</a>
                                     </li>
                                     <li>
                                         <i class="icon-clock"></i>
-                                        <a href="blog-details.html">25 April,2022</a>
+                                        <a href="blog.php">25 April,2022</a>
                                     </li>
                                 </ul>
-                                <h3 class="blog-one__title"><a href="blog-details.html">The Best Height for a Workbench Traditional </a></h3>
+                                <h3 class="blog-one__title"><a href="blog.php">The Best Height for a Workbench Traditional </a></h3>
                                 <div class="blog-one__arrow">
-                                    <a href="blog-details.html">Learn More <span class="icon-right-arrow-1"></span></a>
+                                    <a href="blog.php">Learn More <span class="icon-right-arrow-1"></span></a>
                                 </div>
                                 <div class="blog-one__tag">
                                     <p>Carpenter</p>
@@ -282,16 +282,16 @@
                                 <ul class="list-unstyled blog-one__meta">
                                     <li>
                                         <i class="icon-user"></i>
-                                        <a href="blog-details.html">By Admin</a>
+                                        <a href="blog.php">By Admin</a>
                                     </li>
                                     <li>
                                         <i class="icon-clock"></i>
-                                        <a href="blog-details.html">25 April,2022</a>
+                                        <a href="blog.php">25 April,2022</a>
                                     </li>
                                 </ul>
-                                <h3 class="blog-one__title"><a href="blog-details.html">Introducing Cedars Wood working & Renovations</a></h3>
+                                <h3 class="blog-one__title"><a href="blog.php">Introducing Cedars Wood working & Renovations</a></h3>
                                 <div class="blog-one__arrow">
-                                    <a href="blog-details.html">Learn More <span class="icon-right-arrow-1"></span></a>
+                                    <a href="blog.php">Learn More <span class="icon-right-arrow-1"></span></a>
                                 </div>
                                 <div class="blog-one__tag">
                                     <p>Hardwood</p>
@@ -334,7 +334,7 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/footer-logo.png" width="143"
+                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/footer-logo1.png" width="143"
                         alt="" /></a>
             </div>
             <!-- /.logo-box -->
@@ -344,11 +344,13 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="https://themazine.com/cdn-cgi/l/email-protection#e48a8181808c818894a49485878f858381aa858981bbbbca878b89"><span class="__cf_email__" data-cfemail="d4bab1b1b0bcb1b8a494a3bbbbb0aeb5fab7bbb9">[email&#160;protected]</span></a>
+                    <a href="mailto:sanjay1966rd@gmail.com">
+  sanjay1966rd@gmail.com
+</a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:666-888-0000">666 888 0000</a>
+                    <a href="tel:+91 98121 75856">+91 98121 75856</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
