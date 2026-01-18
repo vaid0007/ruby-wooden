@@ -75,7 +75,7 @@
                                             <span class="icon-phone"></span>
                                         </div>
                                         <div class="text">
-                                            <p><a href="tel:9812175856">+91 9812175856</a></p>
+                                            <p><a href="tel:9811217586">+91 9811217586</a></p>
                                             <p><a href="tel:9813697331">+91 9813697331</a></p>
                                             <p><a href="tel:9818161071">+91 9818161071</a></p>
                                         </div>

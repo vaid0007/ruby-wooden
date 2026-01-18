@@ -1213,7 +1213,7 @@
           </li>
           <li>
             <i class="fa fa-phone-alt"></i>
-            <a href="tel:+91 98121 75856">+91 98121 75856</a>
+            <a href="tel:+91 98112 17586">+91 98112 17586</a>
           </li>
         </ul>
         <!-- /.mobile-nav__contact -->

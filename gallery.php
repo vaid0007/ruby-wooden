@@ -459,7 +459,7 @@
                                     <div class="content">
                                         <h5>Phone</h5>
                                         <p>
-                                            <p><a href="tel:9812175856">+91 9812175856</a></p>
+                                            <p><a href="tel:9811217586">+91 9811217586</a></p>
                                             <p><a href="tel:9813697331">+91 9813697331</a></p>
                                             <p><a href="tel:9818161071">+91 9818161071</a></p>
                                         </p>
@@ -553,7 +553,7 @@
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:+91 98121 75856">+91 98121 75856</a>
+                    <a href="tel:+91 98112 17586">+91 98112 17586</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
