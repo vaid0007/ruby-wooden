@@ -38,7 +38,7 @@
                                     </div>
                                     <div class="content">
                                         <p>Phone Number</p>
-                                        <h5><a href="tel:+91 98121 75856">+91 98121 75856</a></h5>
+                                        <h5><a href="tel:9811217586">+919811217586</a></h5>
                                     </div>
                                 </li>
                             </ul>

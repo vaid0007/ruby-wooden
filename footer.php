@@ -32,12 +32,10 @@
                                     <h3 class="footer-widget__title">Services</h3>
                                 </div>
                                 <ul class="footer-widget__service-list list-unstyled clearfix">
-                                    <li><a href="carpentry.html">Carpentry</a></li>
-                                    <li><a href="hardwood-flooring.html">Hardwood Flooring</a></li>
-                                    <li><a href="celling-roofing.html">Ceiling & Roofing</a></li>
-                                    <li><a href="heavy-room.html">Heavy Room</a></li>
-                                    <li><a href="house-renovation.html">House Renovation</a></li>
-                                    <li><a href="hardwood-wall.html">Hardwood Wall</a></li>
+                                    <li><a href="Wooden_Photo_Frame_Manufacturing.php">Wooden Photo Frames</a></li>
+                                                        <li><a href="Woode_ Mouldings_and_Trim_Profiles.php">Wooden Mouldings</a></li>
+                                                        <li><a href="Photo_Frame_Accessories.php">Frame Accessories</a></li>
+                                                        <li><a href="Custom_Frame_and_Moulding_Orders.php">Custom Frame & Moulding Orders</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -75,7 +73,7 @@
                                             <span class="icon-phone"></span>
                                         </div>
                                         <div class="text">
-                                            <p><a href="tel:9812175856">+91 9812175856</a></p>
+                                            <p><a href="tel:9811217586">+91 9811217586</a></p>
                                             <p><a href="tel:9813697331">+91 9813697331</a></p>
                                             <p><a href="tel:9818161071">+91 9818161071</a></p>
                                         </div>
