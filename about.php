@@ -689,7 +689,7 @@
                             <div class="content">
                                 <p>Phone Number</p>
                                 <h4>
-                                    <a href="tel:+919811217586">+91 9811217586</a><br>
+                                    <a href="tel:+919812175856">+91 98121 75856</a><br>
                                     <a href="tel:+919813697331">+91 98136 97331</a>
                                 </h4>
                             </div>
@@ -797,7 +797,7 @@
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:+919811217586">+91 9811217586</a>
+                    <a href="tel:+91 98121 75856">+91 98121 75856</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
