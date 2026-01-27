@@ -184,7 +184,7 @@
                                 <p class="service-details__text-1">At Ruby Wooden, we specialize in high-quality wooden photo frame manufacturing crafted with precision, durability, and timeless design. Our frames are designed to enhance photographs, artwork, certificates, and mirrors while adding elegance to any space.</p>
                                 <p class="service-details__text-2">We manufacture a wide range of wooden frames using premium materials, fine finishing techniques, and modern tools to ensure long-lasting quality. Whether you need classic, modern, or custom designs, our frames are created to meet both residential and commercial requirements.</p>
                                 <div class="service-details__img-one">
-                                    <img src="assets/images/services/service-details-img-5.jpg" alt="">
+                                    <img src="assets/images/services/service-details-img-5a.jpg" alt="">
                                 </div>
                                 <h4 class="service-details__content-title-two">Our Photo Frame Solutions</h4>
                                 <ul class="list-unstyled service-details__benefits-points">

@@ -183,7 +183,7 @@
                                 <p class="service-details__text-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
                                 <p class="service-details__text-2">When enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
                                 <div class="service-details__img-one">
-                                    <img src="assets/images/services/service-details-img-5.jpg" alt="">
+                                    <img src="assets/images/services/service-details-img-5a.jpg" alt="">
                                 </div>
                                 <h4 class="service-details__content-title-two">Furniture Solutions</h4>
                                 <p class="service-details__text-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inciidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercit Lorem ipsum dolor sit amet consectetur adipisicing elit</p>

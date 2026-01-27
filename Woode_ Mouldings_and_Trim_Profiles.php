@@ -183,7 +183,7 @@
                                 <p class="service-details__text-1">At Ruby Wooden, we manufacture and supply high-quality wooden mouldings designed to add elegance, structure, and character to interiors. Our mouldings are crafted with precision to enhance walls, ceilings, doors, windows, furniture, and decorative elements.</p>
                                 <p class="service-details__text-2">We offer a wide variety of moulding profiles, finishes, and sizes suitable for both residential and commercial spaces. Each moulding is produced using quality wood and advanced finishing techniques to ensure durability and a refined appearance.</p>
                                 <div class="service-details__img-one">
-                                    <img src="assets/images/services/service-details-img-5.jpg" alt="">
+                                    <img src="assets/images/services/service-details-img-5a.jpg" alt="">
                                 </div>
                                 <h4 class="service-details__content-title-two">Furniture Solutions</h4>
                                 <p class="service-details__text-3">At Ruby Wooden, our wooden moulding solutions are designed to enhance interiors with refined detailing and lasting quality. We craft mouldings that seamlessly blend with furniture, walls, ceilings, doors, and architectural elements to create a polished and elegant finish.</p>
