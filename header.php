@@ -73,9 +73,9 @@
                                         <li>
                                             <a href="gallery.php">Gallery</a>
                                         </li>
-                                        <li>
+                                        <!-- <li>
                                             <a href="blog.php">Blog</a>
-                                        </li>
+                                        </li> -->
                                         <li>
                                             <a href="contact.php">Contact</a>
                                         </li>
