@@ -129,10 +129,9 @@
         <!--Page Header End-->
 
         <!--Blog Page Start-->
-        <section class="blog-page">
+        <!-- <section class="blog-page">
             <div class="container">
                 <div class="row">
-                    <!--Blog One Single Start-->
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="blog-one__single">
                             <div class="blog-one__img">
@@ -159,8 +158,6 @@
                             </div>
                         </div>
                     </div>
-                    <!--Blog One Single End-->
-                    <!--Blog One Single Start-->
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="blog-one__single">
                             <div class="blog-one__img">
@@ -187,8 +184,6 @@
                             </div>
                         </div>
                     </div>
-                    <!--Blog One Single End-->
-                    <!--Blog One Single Start-->
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                         <div class="blog-one__single">
                             <div class="blog-one__img">
@@ -215,8 +210,6 @@
                             </div>
                         </div>
                     </div>
-                    <!--Blog One Single End-->
-                    <!--Blog One Single Start-->
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                         <div class="blog-one__single">
                             <div class="blog-one__img">
@@ -243,8 +236,6 @@
                             </div>
                         </div>
                     </div>
-                    <!--Blog One Single End-->
-                    <!--Blog One Single Start-->
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__img">
@@ -271,8 +262,6 @@
                             </div>
                         </div>
                     </div>
-                    <!--Blog One Single End-->
-                    <!--Blog One Single Start-->
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="600ms">
                         <div class="blog-one__single">
                             <div class="blog-one__img">
@@ -299,7 +288,6 @@
                             </div>
                         </div>
                     </div>
-                    <!--Blog One Single End-->
                 </div>
                 <div class="row">
                     <div class="col-xl-12">
@@ -316,8 +304,7 @@
                     </div>
                 </div>
             </div>
-        </section>
-        <!--Blog Page End-->
+        </section> -->
 
         <!--Site Footer Start-->
         <?php include 'footer.php'; ?>
