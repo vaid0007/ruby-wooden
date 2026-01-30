@@ -45,7 +45,7 @@ body {
   font-family: var(--woodza-font);
   color: var(--woodza-gray);
   font-size: 16px;
-  line-height: 32px;
+  line-height: 14px;
   font-weight: 400;
 }
 
@@ -502,7 +502,7 @@ ul {
 .main-header__top {
   position: relative;
   display: block;
-  padding: 40px 0 100px;
+  padding: 15px 0 15px;
 }
 
 .main-header__top-inner {
@@ -564,8 +564,8 @@ ul {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 60px;
-  width: 60px;
+  height: 40px;
+  width: 40px;
   background-color: #f7f3f1;
   border-radius: 50%;
   -webkit-transition: all 500ms ease;
@@ -579,7 +579,7 @@ ul {
 .main-header__top-contact li .icon span {
   position: relative;
   display: inline-block;
-  font-size: 30px;
+  font-size: 20px;
   color: var(--woodza-base);
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
@@ -594,14 +594,14 @@ ul {
 }
 
 .main-header__top-contact li .content p {
-  font-size: 15px;
-  line-height: 23px;
+  font-size: 12px;
+  line-height: 10px;
   color: var(--woodza-black);
   opacity: .70;
 }
 
 .main-header__top-contact li .content h5 {
-  font-size: 16px;
+  font-size: 14px;
   font-family: var(--woodza-font);
   line-height: 24px;
 }
@@ -661,7 +661,7 @@ ul {
 .main-menu {
   position: relative;
   display: block;
-  margin-top: -60px;
+  margin-top: 0px;
 }
 
 .main-menu__wrapper {
@@ -2031,8 +2031,8 @@ ul {
   top: 0px;
   bottom: 140px;
   content: "";
-  background: rgb(31, 29, 30);
-  background: linear-gradient(180deg, rgba(31, 29, 30, 0.9304096638655462) 17%, rgba(31, 29, 30, 0.07326680672268904) 68%);
+  /* background: rgb(31, 29, 30); */
+  /* background: linear-gradient(180deg, rgba(31, 29, 30, 0.9304096638655462) 17%, rgba(31, 29, 30, 0.07326680672268904) 68%); */
   z-index: -1;
 }
 
@@ -2041,9 +2041,10 @@ ul {
   top: 0;
   bottom: 0;
   left: 0;
-  width: 870px;
-  background: rgb(5, 15, 29);
-  background: linear-gradient(90deg, rgba(5, 15, 29, 0.9220063025210083) 18%, rgba(5, 15, 29, 0.09007352941176472) 66%);
+  width: 100%;
+  background: rgba(0, 0, 0, 0.35);
+  /* background: rgb(5, 15, 29); */
+  /* background: linear-gradient(90deg, rgba(5, 15, 29, 0.9220063025210083) 18%, rgba(5, 15, 29, 0.09007352941176472) 66%); */
   z-index: 1;
 }
 
@@ -2061,7 +2062,7 @@ ul {
 .main-slider__content {
   position: relative;
   display: block;
-  text-align: center;
+  text-align: left;
 }
 
 .main-slider__sub-title {

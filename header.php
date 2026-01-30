@@ -7,7 +7,7 @@
                         <div class="main-header__top-left">
                             <div class="main-header__top-logo">
                                <a href="index.php">
-  <img src="assets/images/resources/logo-1ac.png" alt="" style="width: 150px;">
+  <img src="assets/images/resources/logo-1ac.pn" alt="" style="width: 150px;">
 </a>
 
                             </div>

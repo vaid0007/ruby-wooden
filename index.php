@@ -240,7 +240,7 @@
     <div class="row">
 
       <!-- Feature 1 -->
-      <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+      <!-- <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
         <div class="famous-company__single">
           <div class="famous-company__icon">
             <img src="assets/images/icon/famous-company-icon-1.png" alt="" />
@@ -259,10 +259,10 @@
           </div>
           <div class="famous-company__shape-1"></div>
         </div>
-      </div>
+      </div> -->
 
       <!-- Feature 2 -->
-      <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+      <!-- <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
         <div class="famous-company__single">
           <div class="famous-company__icon">
             <img src="assets/images/icon/famous-company-icon-2.png" alt="" />
@@ -281,10 +281,10 @@
           </div>
           <div class="famous-company__shape-1"></div>
         </div>
-      </div>
+      </div> -->
 
       <!-- Feature 3 -->
-      <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+      <!-- <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
         <div class="famous-company__single">
           <div class="famous-company__icon">
             <img src="assets/images/icon/famous-company-icon-3.png" alt="" />
@@ -303,10 +303,10 @@
           </div>
           <div class="famous-company__shape-1"></div>
         </div>
-      </div>
+      </div> -->
 
       <!-- Feature 4 -->
-      <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+      <!-- <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
         <div class="famous-company__single">
           <div class="famous-company__icon">
             <img src="assets/images/icon/famous-company-icon-4.png" alt="" />
@@ -325,7 +325,210 @@
           </div>
           <div class="famous-company__shape-1"></div>
         </div>
-      </div>
+      </div> -->
+
+      <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+  <div class="famous-company__single" style="background:#fff; border-radius:6px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08);">
+
+    <!-- Image -->
+    <div style="width:100%; height:200px; overflow:hidden;">
+      <img 
+        src="assets/images/features/imported-mouldings.jpg" 
+        alt="Imported Mouldings"
+        style="width:100%; height:100%; object-fit:cover; transition:0.4s ease;"
+      />
+    </div>
+
+    <!-- Content -->
+    <div style="padding:25px;">
+      <h3 style="font-size:20px; font-weight:700; margin-bottom:10px;">
+        <a href="products.php" style="color:#0b2c5d; text-decoration:none;">
+          Imported Mouldings
+        </a>
+      </h3>
+
+      <p style="font-size:15px; color:#666; line-height:1.6; margin-bottom:15px;">
+        Premium imported frame mouldings in multiple designs and finishes.
+      </p>
+
+      <a href="products.php" style="font-size:14px; font-weight:600; color:#e85b2c; text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
+        <i class="fas fa-arrow-right"></i>
+        View Products
+      </a>
+    </div>
+
+  </div>
+</div>
+
+<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+  <div class="famous-company__single" style="background:#fff; border-radius:6px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08);">
+
+    <!-- Image -->
+    <div style="width:100%; height:200px; overflow:hidden;">
+      <img 
+        src="assets/images/features/imported-mouldings.jpg" 
+        alt="Imported Mouldings"
+        style="width:100%; height:100%; object-fit:cover; transition:0.4s ease;"
+      />
+    </div>
+
+    <!-- Content -->
+    <div style="padding:25px;">
+      <h3 style="font-size:20px; font-weight:700; margin-bottom:10px;">
+        <a href="products.php" style="color:#0b2c5d; text-decoration:none;">
+          Imported Mouldings
+        </a>
+      </h3>
+
+      <p style="font-size:15px; color:#666; line-height:1.6; margin-bottom:15px;">
+        Premium imported frame mouldings in multiple designs and finishes.
+      </p>
+
+      <a href="products.php" style="font-size:14px; font-weight:600; color:#e85b2c; text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
+        <i class="fas fa-arrow-right"></i>
+        View Products
+      </a>
+    </div>
+
+  </div>
+</div>
+
+<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+  <div class="famous-company__single" style="background:#fff; border-radius:6px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08);">
+
+    <!-- Image -->
+    <div style="width:100%; height:200px; overflow:hidden;">
+      <img 
+        src="assets/images/features/imported-mouldings.jpg" 
+        alt="Imported Mouldings"
+        style="width:100%; height:100%; object-fit:cover; transition:0.4s ease;"
+      />
+    </div>
+
+    <!-- Content -->
+    <div style="padding:25px;">
+      <h3 style="font-size:20px; font-weight:700; margin-bottom:10px;">
+        <a href="products.php" style="color:#0b2c5d; text-decoration:none;">
+          Imported Mouldings
+        </a>
+      </h3>
+
+      <p style="font-size:15px; color:#666; line-height:1.6; margin-bottom:15px;">
+        Premium imported frame mouldings in multiple designs and finishes.
+      </p>
+
+      <a href="products.php" style="font-size:14px; font-weight:600; color:#e85b2c; text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
+        <i class="fas fa-arrow-right"></i>
+        View Products
+      </a>
+    </div>
+
+  </div>
+</div>
+
+<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+  <div class="famous-company__single" style="background:#fff; border-radius:6px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08);">
+
+    <!-- Image -->
+    <div style="width:100%; height:200px; overflow:hidden;">
+      <img 
+        src="assets/images/features/imported-mouldings.jpg" 
+        alt="Imported Mouldings"
+        style="width:100%; height:100%; object-fit:cover; transition:0.4s ease;"
+      />
+    </div>
+
+    <!-- Content -->
+    <div style="padding:25px;">
+      <h3 style="font-size:20px; font-weight:700; margin-bottom:10px;">
+        <a href="products.php" style="color:#0b2c5d; text-decoration:none;">
+          Imported Mouldings
+        </a>
+      </h3>
+
+      <p style="font-size:15px; color:#666; line-height:1.6; margin-bottom:15px;">
+        Premium imported frame mouldings in multiple designs and finishes.
+      </p>
+
+      <a href="products.php" style="font-size:14px; font-weight:600; color:#e85b2c; text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
+        <i class="fas fa-arrow-right"></i>
+        View Products
+      </a>
+    </div>
+
+  </div>
+</div>
+
+<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+  <div class="famous-company__single" style="background:#fff; border-radius:6px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08);">
+
+    <!-- Image -->
+    <div style="width:100%; height:200px; overflow:hidden;">
+      <img 
+        src="assets/images/features/imported-mouldings.jpg" 
+        alt="Imported Mouldings"
+        style="width:100%; height:100%; object-fit:cover; transition:0.4s ease;"
+      />
+    </div>
+
+    <!-- Content -->
+    <div style="padding:25px;">
+      <h3 style="font-size:20px; font-weight:700; margin-bottom:10px;">
+        <a href="products.php" style="color:#0b2c5d; text-decoration:none;">
+          Imported Mouldings
+        </a>
+      </h3>
+
+      <p style="font-size:15px; color:#666; line-height:1.6; margin-bottom:15px;">
+        Premium imported frame mouldings in multiple designs and finishes.
+      </p>
+
+      <a href="products.php" style="font-size:14px; font-weight:600; color:#e85b2c; text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
+        <i class="fas fa-arrow-right"></i>
+        View Products
+      </a>
+    </div>
+
+  </div>
+</div>
+
+<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+  <div class="famous-company__single" style="background:#fff; border-radius:6px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08);">
+
+    <!-- Image -->
+    <div style="width:100%; height:200px; overflow:hidden;">
+      <img 
+        src="assets/images/features/imported-mouldings.jpg" 
+        alt="Imported Mouldings"
+        style="width:100%; height:100%; object-fit:cover; transition:0.4s ease;"
+      />
+    </div>
+
+    <!-- Content -->
+    <div style="padding:25px;">
+      <h3 style="font-size:20px; font-weight:700; margin-bottom:10px;">
+        <a href="products.php" style="color:#0b2c5d; text-decoration:none;">
+          Imported Mouldings
+        </a>
+      </h3>
+
+      <p style="font-size:15px; color:#666; line-height:1.6; margin-bottom:15px;">
+        Premium imported frame mouldings in multiple designs and finishes.
+      </p>
+
+      <a href="products.php" style="font-size:14px; font-weight:600; color:#e85b2c; text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
+        <i class="fas fa-arrow-right"></i>
+        View Products
+      </a>
+    </div>
+
+  </div>
+</div>
+
+
+
+
+
 
     </div>
   </div>
@@ -390,68 +593,57 @@
       </div>
 
       <div class="col-xl-6">
-        <div class="why-choose-one__right">
-          <div class="section-title text-left">
-            <span class="section-title__tagline">our journey</span>
-            <h2 class="section-title__title">
-              Welcome to Beenu Traders
-            </h2>
-          </div>
+  <div class="why-choose-one__right">
+    <div class="section-title text-left">
+      <span class="section-title__tagline">our journey</span>
+      <h2 class="section-title__title">
+        Welcome to SRB Mouldings (Beenu Traders)
+      </h2>
+    </div>
 
-          <p class="why-choose-one__text-1">
-            Beenu Traders is a trusted name in imported and branded mouldings,
-            frames, and framing accessories. We cater to retailers, framers,
-            and professionals with quality-driven products.
-          </p>
+    <p class="why-choose-one__text-1">
+  SRB Mouldings is a trusted name in imported, branded, and architectural mouldings,
+  ready-made frames, and framing accessories. We cater to retailers, framers,
+  interior designers, and corporate clients with reliable, quality-focused solutions.
+</p>
 
-          <ul class="list-unstyled why-choose-one__points">
-            <li>
-              <div class="icon">
-                <span class="icon-check"></span>
-              </div>
-              <div class="text">
-                <p>Wide range of imported & branded mouldings.</p>
-              </div>
-            </li>
-            <li>
-              <div class="icon">
-                <span class="icon-check"></span>
-              </div>
-              <div class="text">
-                <p>Best wholesale prices with assured quality.</p>
-              </div>
-            </li>
-          </ul>
 
-          <p class="why-choose-one__text-2">
-            With years of industry experience, we focus on durability,
-            finishing, and customer satisfaction across every product we supply.
-          </p>
+    <ul class="list-unstyled why-choose-one__points">
+  <li>
+    <div class="icon">
+      <span class="icon-check"></span>
+    </div>
+    <div class="text">
+      <p>Extensive range of imported, branded, and decorative mouldings.</p>
+    </div>
+  </li>
+  <li>
+    <div class="icon">
+      <span class="icon-check"></span>
+    </div>
+    <div class="text">
+      <p>High-quality PU, wall, ceiling, PVC, and synthetic moulding solutions.</p>
+    </div>
+  </li>
+  <li>
+    <div class="icon">
+      <span class="icon-check"></span>
+    </div>
+    <div class="text">
+      <p>Competitive wholesale pricing with consistent quality and superior finish.</p>
+    </div>
+  </li>
+</ul>
 
-          <!-- <div class="why-choose-one__bottom">
-            <div class="why-choose-one__bottom-content">
-              <p class="why-choose-one__bottom-text">
-                Delivering quality framing solutions you can trust.
-              </p>
-            </div>
-            <div class="why-choose-one__user">
-              <div class="why-choose-one__user-img">
-                <img
-                  src="assets/images/resources/why-choose-one-user-img.jpg"
-                  alt=""
-                />
-              </div>
-              <div class="why-choose-one__user-sign">
-                <img
-                  src="assets/images/resources/why-choose-one-user-sign.png"
-                  alt=""
-                />
-              </div>
-            </div>
-          </div> -->
+<p class="why-choose-one__text-2">
+  Backed by years of industry expertise, Beenu Traders ensures dependable supply
+  and strong market presence, while SRB Mouldings delivers durability,
+  precision craftsmanship, and contemporary design excellence.
+</p>
 
-        </div>
-      </div>
+  </div>
+</div>
+
     </div>
   </div>
 </section>
@@ -475,7 +667,7 @@
 
       <!-- Service 1 -->
       <div
-        class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp"
+        class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
         data-wow-delay="100ms"
       >
         <div class="services-one__single">
@@ -487,11 +679,12 @@
               <span class="icon-table"></span>
             </div>
             <h3 class="services-one__title">
-              <a href="products.php">Imported Mouldings</a>
-            </h3>
-            <p class="services-one__text">
-              Premium imported frame mouldings in modern, classic, and designer styles.
-            </p>
+  <a href="products.php">Wooden Mouldings</a>
+</h3>
+<p class="services-one__text">
+  Premium quality wooden mouldings available in classic, modern, and designer finishes.
+</p>
+
             <div class="services-one__arrow">
               <a href="products.php"><i class="fas fa-arrow-right"></i></a>
             </div>
@@ -502,7 +695,7 @@
 
       <!-- Service 2 -->
       <div
-        class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp"
+        class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
         data-wow-delay="200ms"
       >
         <div class="services-one__single">
@@ -514,11 +707,11 @@
               <span class="icon-chainsaw"></span>
             </div>
             <h3 class="services-one__title">
-              <a href="products.php">Branded Frame Materials</a>
-            </h3>
-            <p class="services-one__text">
-              High-quality branded materials ensuring durability and fine finish.
-            </p>
+  <a href="products.php">Synthetic Mouldings</a>
+</h3>
+<p class="services-one__text">
+  Durable and cost-effective synthetic mouldings suitable for modern framing needs.
+</p>
             <div class="services-one__arrow">
               <a href="products.php"><i class="fas fa-arrow-right"></i></a>
             </div>
@@ -529,7 +722,7 @@
 
       <!-- Service 3 -->
       <div
-        class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp"
+        class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
         data-wow-delay="300ms"
       >
         <div class="services-one__single">
@@ -541,11 +734,66 @@
               <span class="icon-wood-pile"></span>
             </div>
             <h3 class="services-one__title">
-              <a href="products.php">Framing Accessories</a>
-            </h3>
-            <p class="services-one__text">
-              Complete range of hooks, pins, glass cutters, and framing essentials.
-            </p>
+  <a href="products.php">PVC Mouldings</a>
+</h3>
+<p class="services-one__text">
+  Moisture-resistant PVC mouldings ideal for long-lasting and low-maintenance applications.
+</p>
+
+            <div class="services-one__arrow">
+              <a href="products.php"><i class="fas fa-arrow-right"></i></a>
+            </div>
+          </div>
+          <div class="services-one__shape-1"></div>
+        </div>
+      </div>
+
+      <div
+        class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
+        data-wow-delay="300ms"
+      >
+        <div class="services-one__single">
+          <div class="services-one__img">
+            <img src="assets/images/services/services-1-3a.jpg" alt="" />
+          </div>
+          <div class="services-one__content">
+            <div class="services-one__icon">
+              <span class="icon-wood-pile"></span>
+            </div>
+            <h3 class="services-one__title">
+  <a href="products.php">Ready-Made Frames</a>
+</h3>
+<p class="services-one__text">
+  Ready-made frames available in standard sizes including A4, A5, and A6.
+</p>
+
+            <div class="services-one__arrow">
+              <a href="products.php"><i class="fas fa-arrow-right"></i></a>
+            </div>
+          </div>
+          <div class="services-one__shape-1"></div>
+        </div>
+      </div>
+
+      <div
+        class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
+        data-wow-delay="300ms"
+      >
+        <div class="services-one__single">
+          <div class="services-one__img">
+            <img src="assets/images/services/services-1-3a.jpg" alt="" />
+          </div>
+          <div class="services-one__content">
+            <div class="services-one__icon">
+              <span class="icon-wood-pile"></span>
+            </div>
+            <h3 class="services-one__title">
+  <a href="products.php">Corporate Frames</a>
+</h3>
+<p class="services-one__text">
+  Professional framing solutions for offices, certificates, awards, and branding.
+</p>
+
             <div class="services-one__arrow">
               <a href="products.php"><i class="fas fa-arrow-right"></i></a>
             </div>
@@ -556,7 +804,7 @@
 
       <!-- Service 4 -->
       <div
-        class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp"
+        class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
         data-wow-delay="400ms"
       >
         <div class="services-one__single">
@@ -568,11 +816,12 @@
               <span class="icon-table"></span>
             </div>
             <h3 class="services-one__title">
-              <a href="products.php">Framing Tools & Machines</a>
-            </h3>
-            <p class="services-one__text">
-              Professional pinning machines, LED tools, and framing equipment.
-            </p>
+  <a href="products.php">Crystal Frames & Accessories</a>
+</h3>
+<p class="services-one__text">
+  Elegant crystal frames supplied with complete accessories including page nuts and fittings.
+</p>
+
             <div class="services-one__arrow">
               <a href="products.php"><i class="fas fa-arrow-right"></i></a>
             </div>
