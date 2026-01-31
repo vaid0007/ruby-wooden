@@ -334,7 +334,7 @@
     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,.08)'">
 
     <div style="position:relative;height:220px;overflow:hidden;">
-      <img src="assets/images/features/wooden-moulding.jpg" alt="Wooden Molding"
+      <img src="assets/images/features/1.jpg" alt="Wooden Molding"
         style="width:100%;height:100%;object-fit:cover;transition:.6s;"
         onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
     </div>
@@ -354,7 +354,7 @@
     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,.08)'">
 
     <div style="position:relative;height:220px;overflow:hidden;">
-      <img src="assets/images/features/synthetic-moulding.jpg" alt="Synthetic Molding"
+      <img src="assets/images/features/2.jpg" alt="Synthetic Molding"
         style="width:100%;height:100%;object-fit:cover;transition:.6s;"
         onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
     </div>
@@ -374,7 +374,7 @@
     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,.08)'">
 
     <div style="position:relative;height:220px;overflow:hidden;">
-      <img src="assets/images/features/pvc-moulding.jpg" alt="PVC Molding"
+      <img src="assets/images/features/3.jpg" alt="PVC Molding"
         style="width:100%;height:100%;object-fit:cover;transition:.6s;"
         onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
     </div>
@@ -394,7 +394,7 @@
     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,.08)'">
 
     <div style="position:relative;height:220px;overflow:hidden;">
-      <img src="assets/images/features/ready-made-frames.jpg" alt="Ready Made Frames"
+      <img src="assets/images/features/4.jpg" alt="Ready Made Frames"
         style="width:100%;height:100%;object-fit:cover;transition:.6s;"
         onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
     </div>
@@ -414,7 +414,7 @@
     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,.08)'">
 
     <div style="position:relative;height:220px;overflow:hidden;">
-      <img src="assets/images/features/corporate-frames.jpg" alt="Corporate Frames"
+      <img src="assets/images/features/5.jpg" alt="Corporate Frames"
         style="width:100%;height:100%;object-fit:cover;transition:.6s;"
         onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
     </div>
@@ -434,7 +434,7 @@
     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,.08)'">
 
     <div style="position:relative;height:220px;overflow:hidden;">
-      <img src="assets/images/features/crystal-frames.jpg" alt="Crystal Frames"
+      <img src="assets/images/features/6.jpg" alt="Crystal Frames"
         style="width:100%;height:100%;object-fit:cover;transition:.6s;"
         onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
     </div>
