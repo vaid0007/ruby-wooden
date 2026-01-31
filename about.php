@@ -188,68 +188,63 @@
       </div>
 
             <div class="col-xl-6">
-  <div class="why-choose-three__right">
-    <div class="section-title text-left">
-      <span class="section-title__tagline">our journey</span>
-      <h2 class="section-title__title">
-        Welcome to Beenu Traders & SRB Mouldings
-      </h2>
-    </div>
+                <div class="why-choose-three__right">
+                    <div class="section-title text-left">
+                        <span class="section-title__tagline">our journey</span>
+                        <h2 class="section-title__title">Welcome to Beenu Traders</h2>
+                    </div>
 
-    <p class="why-choose-three__text-1">
-      Beenu Traders and SRB Mouldings are trusted suppliers of imported,
-      branded, and architectural mouldings, frames, and professional
-      framing accessories. We serve retailers, framers, interior designers,
-      and industry professionals with quality-focused solutions.
-    </p>
+                    <p class="why-choose-three__text-1">
+                        Beenu Traders is a trusted supplier of imported and branded mouldings,
+                        frames, and professional framing accessories. We serve retailers,
+                        framers, and industry professionals with quality-focused solutions.
+                    </p>
 
-    <ul class="list-unstyled why-choose-three__points">
-      <li>
-        <div class="icon">
-          <span class="icon-check"></span>
-        </div>
-        <div class="text">
-          <p>Wide range of imported, branded & decorative mouldings.</p>
-        </div>
-      </li>
-      <li>
-        <div class="icon">
-          <span class="icon-check"></span>
-        </div>
-        <div class="text">
-          <p>Premium PU, wall & ceiling mouldings with assured quality.</p>
-        </div>
-      </li>
-      <li>
-        <div class="icon">
-          <span class="icon-check"></span>
-        </div>
-        <div class="text">
-          <p>Competitive wholesale pricing with reliable supply.</p>
-        </div>
-      </li>
-    </ul>
+                    <ul class="list-unstyled why-choose-three__points">
+                        <li>
+                            <div class="icon">
+                                <span class="icon-check"></span>
+                            </div>
+                            <div class="text">
+                                <p>Wide range of imported & branded mouldings.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="icon">
+                                <span class="icon-check"></span>
+                            </div>
+                            <div class="text">
+                                <p>Competitive wholesale pricing with assured quality.</p>
+                            </div>
+                        </li>
+                    </ul>
 
-    <div class="why-choose-three__user">
-      <div class="why-choose-three__user-left">
-        <div class="why-choose-three__user-left-img-box">
-          <div class="why-choose-three__user-left-img">
-            <img src="assets/images/resources/why-choose-three-left-imga.jpg" alt="">
-          </div>
-        </div>
-      </div>
-      <div class="why-choose-three__user-right">
-        <p class="why-choose-three__user-text">
-          Backed by years of industry experience, Beenu Traders ensures
-          dependable supply while SRB Mouldings delivers refined finishes
-          and modern architectural aesthetics.
-        </p>
-      </div>
-    </div>
+                    <div class="why-choose-three__user">
+                        <div class="why-choose-three__user-left">
+                            <div class="why-choose-three__user-left-img-box">
+                                <div class="why-choose-three__user-left-img">
+                                    <img src="assets/images/resources/why-choose-three-left-imga.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="why-choose-three__user-right">
+                            <p class="why-choose-three__user-text">
+                                Decades of experience delivering premium framing materials
+                                trusted across the industry.
+                            </p>
+                            <!-- <div class="why-choose-three__user-box">
+                                <div class="why-choose-one__user-box-img">
+                                    <img src="assets/images/resources/why-choose-one-user-img.jpg" alt="">
+                                </div>
+                                <div class="why-choose-one__user-box-sign">
+                                    <img src="assets/images/resources/why-choose-one-user-sign.png" alt="">
+                                </div>
+                            </div> -->
+                        </div>
+                    </div>
 
-  </div>
-</div>
-
+                </div>
+            </div>
 
         </div>
     </div>
@@ -694,7 +689,7 @@
                             <div class="content">
                                 <p>Phone Number</p>
                                 <h4>
-                                    <a href="tel:+919812175856">+91 98121 75856</a><br>
+                                    <a href="tel:+919811217586">+91 9811217586</a><br>
                                     <a href="tel:+919813697331">+91 98136 97331</a>
                                 </h4>
                             </div>
@@ -802,7 +797,7 @@
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:+91 98121 75856">+91 98121 75856</a>
+                    <a href="tel:+919811217586">+91 9811217586</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">

@@ -327,203 +327,126 @@
         </div>
       </div> -->
 
-      <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-  <div class="famous-company__single" style="background:#fff; border-radius:6px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08);">
+<!-- 1. Wooden Molding -->
+<div class="col-xl-4 col-lg-6 col-md-6 mb-4">
+  <div class="card h-100 border-0" style="border-radius:14px; overflow:hidden; transition:.4s; box-shadow:0 12px 30px rgba(0,0,0,.08);"
+    onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 20px 45px rgba(0,0,0,.15)'"
+    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,.08)'">
 
-    <!-- Image -->
-    <div style="width:100%; height:200px; overflow:hidden;">
-      <img 
-        src="assets/images/features/imported-mouldings.jpg" 
-        alt="Imported Mouldings"
-        style="width:100%; height:100%; object-fit:cover; transition:0.4s ease;"
-      />
+    <div style="position:relative;height:220px;overflow:hidden;">
+      <img src="assets/images/features/wooden-moulding.jpg" alt="Wooden Molding"
+        style="width:100%;height:100%;object-fit:cover;transition:.6s;"
+        onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
     </div>
 
-    <!-- Content -->
-    <div style="padding:25px;">
-      <h3 style="font-size:20px; font-weight:700; margin-bottom:10px;">
-        <a href="products.php" style="color:#0b2c5d; text-decoration:none;">
-          Imported Mouldings
-        </a>
-      </h3>
-
-      <p style="font-size:15px; color:#666; line-height:1.6; margin-bottom:15px;">
-        Premium imported frame mouldings in multiple designs and finishes.
-      </p>
-
-      <a href="products.php" style="font-size:14px; font-weight:600; color:#e85b2c; text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
-        <i class="fas fa-arrow-right"></i>
-        View Products
-      </a>
+    <div class="card-body" style="padding:28px;">
+      <h5 style="font-weight:700;color:#0b2c5d;">Wooden Molding</h5>
+      <p style="color:#666;line-height:1.7;">High-quality wooden moldings for elegant frames and décor.</p>
+      <a href="products.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
-
   </div>
 </div>
 
-<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-  <div class="famous-company__single" style="background:#fff; border-radius:6px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08);">
+<!-- 2. Synthetic Molding -->
+<div class="col-xl-4 col-lg-6 col-md-6 mb-4">
+  <div class="card h-100 border-0" style="border-radius:14px; overflow:hidden; transition:.4s; box-shadow:0 12px 30px rgba(0,0,0,.08);"
+    onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 20px 45px rgba(0,0,0,.15)'"
+    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,.08)'">
 
-    <!-- Image -->
-    <div style="width:100%; height:200px; overflow:hidden;">
-      <img 
-        src="assets/images/features/imported-mouldings.jpg" 
-        alt="Imported Mouldings"
-        style="width:100%; height:100%; object-fit:cover; transition:0.4s ease;"
-      />
+    <div style="position:relative;height:220px;overflow:hidden;">
+      <img src="assets/images/features/synthetic-moulding.jpg" alt="Synthetic Molding"
+        style="width:100%;height:100%;object-fit:cover;transition:.6s;"
+        onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
     </div>
 
-    <!-- Content -->
-    <div style="padding:25px;">
-      <h3 style="font-size:20px; font-weight:700; margin-bottom:10px;">
-        <a href="products.php" style="color:#0b2c5d; text-decoration:none;">
-          Imported Mouldings
-        </a>
-      </h3>
-
-      <p style="font-size:15px; color:#666; line-height:1.6; margin-bottom:15px;">
-        Premium imported frame mouldings in multiple designs and finishes.
-      </p>
-
-      <a href="products.php" style="font-size:14px; font-weight:600; color:#e85b2c; text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
-        <i class="fas fa-arrow-right"></i>
-        View Products
-      </a>
+    <div class="card-body" style="padding:28px;">
+      <h5 style="font-weight:700;color:#0b2c5d;">Synthetic Molding</h5>
+      <p style="color:#666;line-height:1.7;">Modern synthetic moldings with long-lasting strength.</p>
+      <a href="products.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
-
   </div>
 </div>
 
-<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-  <div class="famous-company__single" style="background:#fff; border-radius:6px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08);">
+<!-- 3. PVC Molding -->
+<div class="col-xl-4 col-lg-6 col-md-6 mb-4">
+  <div class="card h-100 border-0" style="border-radius:14px; overflow:hidden; transition:.4s; box-shadow:0 12px 30px rgba(0,0,0,.08);"
+    onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 20px 45px rgba(0,0,0,.15)'"
+    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,.08)'">
 
-    <!-- Image -->
-    <div style="width:100%; height:200px; overflow:hidden;">
-      <img 
-        src="assets/images/features/imported-mouldings.jpg" 
-        alt="Imported Mouldings"
-        style="width:100%; height:100%; object-fit:cover; transition:0.4s ease;"
-      />
+    <div style="position:relative;height:220px;overflow:hidden;">
+      <img src="assets/images/features/pvc-moulding.jpg" alt="PVC Molding"
+        style="width:100%;height:100%;object-fit:cover;transition:.6s;"
+        onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
     </div>
 
-    <!-- Content -->
-    <div style="padding:25px;">
-      <h3 style="font-size:20px; font-weight:700; margin-bottom:10px;">
-        <a href="products.php" style="color:#0b2c5d; text-decoration:none;">
-          Imported Mouldings
-        </a>
-      </h3>
-
-      <p style="font-size:15px; color:#666; line-height:1.6; margin-bottom:15px;">
-        Premium imported frame mouldings in multiple designs and finishes.
-      </p>
-
-      <a href="products.php" style="font-size:14px; font-weight:600; color:#e85b2c; text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
-        <i class="fas fa-arrow-right"></i>
-        View Products
-      </a>
+    <div class="card-body" style="padding:28px;">
+      <h5 style="font-weight:700;color:#0b2c5d;">PVC Molding</h5>
+      <p style="color:#666;line-height:1.7;">Lightweight, moisture-resistant PVC moldings.</p>
+      <a href="products.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
-
   </div>
 </div>
 
-<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-  <div class="famous-company__single" style="background:#fff; border-radius:6px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08);">
+<!-- 4. Ready-Made Frames -->
+<div class="col-xl-4 col-lg-6 col-md-6 mb-4">
+  <div class="card h-100 border-0" style="border-radius:14px; overflow:hidden; transition:.4s; box-shadow:0 12px 30px rgba(0,0,0,.08);"
+    onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 20px 45px rgba(0,0,0,.15)'"
+    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,.08)'">
 
-    <!-- Image -->
-    <div style="width:100%; height:200px; overflow:hidden;">
-      <img 
-        src="assets/images/features/imported-mouldings.jpg" 
-        alt="Imported Mouldings"
-        style="width:100%; height:100%; object-fit:cover; transition:0.4s ease;"
-      />
+    <div style="position:relative;height:220px;overflow:hidden;">
+      <img src="assets/images/features/ready-made-frames.jpg" alt="Ready Made Frames"
+        style="width:100%;height:100%;object-fit:cover;transition:.6s;"
+        onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
     </div>
 
-    <!-- Content -->
-    <div style="padding:25px;">
-      <h3 style="font-size:20px; font-weight:700; margin-bottom:10px;">
-        <a href="products.php" style="color:#0b2c5d; text-decoration:none;">
-          Imported Mouldings
-        </a>
-      </h3>
-
-      <p style="font-size:15px; color:#666; line-height:1.6; margin-bottom:15px;">
-        Premium imported frame mouldings in multiple designs and finishes.
-      </p>
-
-      <a href="products.php" style="font-size:14px; font-weight:600; color:#e85b2c; text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
-        <i class="fas fa-arrow-right"></i>
-        View Products
-      </a>
+    <div class="card-body" style="padding:28px;">
+      <h5 style="font-weight:700;color:#0b2c5d;">Ready-Made Frames</h5>
+      <p style="color:#666;line-height:1.7;">Frames available in A4, A5, A6 & more sizes.</p>
+      <a href="products.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
-
   </div>
 </div>
 
-<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-  <div class="famous-company__single" style="background:#fff; border-radius:6px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08);">
+<!-- 5. Corporate Frames -->
+<div class="col-xl-4 col-lg-6 col-md-6 mb-4">
+  <div class="card h-100 border-0" style="border-radius:14px; overflow:hidden; transition:.4s; box-shadow:0 12px 30px rgba(0,0,0,.08);"
+    onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 20px 45px rgba(0,0,0,.15)'"
+    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,.08)'">
 
-    <!-- Image -->
-    <div style="width:100%; height:200px; overflow:hidden;">
-      <img 
-        src="assets/images/features/imported-mouldings.jpg" 
-        alt="Imported Mouldings"
-        style="width:100%; height:100%; object-fit:cover; transition:0.4s ease;"
-      />
+    <div style="position:relative;height:220px;overflow:hidden;">
+      <img src="assets/images/features/corporate-frames.jpg" alt="Corporate Frames"
+        style="width:100%;height:100%;object-fit:cover;transition:.6s;"
+        onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
     </div>
 
-    <!-- Content -->
-    <div style="padding:25px;">
-      <h3 style="font-size:20px; font-weight:700; margin-bottom:10px;">
-        <a href="products.php" style="color:#0b2c5d; text-decoration:none;">
-          Imported Mouldings
-        </a>
-      </h3>
-
-      <p style="font-size:15px; color:#666; line-height:1.6; margin-bottom:15px;">
-        Premium imported frame mouldings in multiple designs and finishes.
-      </p>
-
-      <a href="products.php" style="font-size:14px; font-weight:600; color:#e85b2c; text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
-        <i class="fas fa-arrow-right"></i>
-        View Products
-      </a>
+    <div class="card-body" style="padding:28px;">
+      <h5 style="font-weight:700;color:#0b2c5d;">Corporate Frames</h5>
+      <p style="color:#666;line-height:1.7;">Professional frames for certificates & awards.</p>
+      <a href="products.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
-
   </div>
 </div>
 
-<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-  <div class="famous-company__single" style="background:#fff; border-radius:6px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08);">
+<!-- 6. Crystal Frames -->
+<div class="col-xl-4 col-lg-6 col-md-6 mb-4">
+  <div class="card h-100 border-0" style="border-radius:14px; overflow:hidden; transition:.4s; box-shadow:0 12px 30px rgba(0,0,0,.08);"
+    onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 20px 45px rgba(0,0,0,.15)'"
+    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,.08)'">
 
-    <!-- Image -->
-    <div style="width:100%; height:200px; overflow:hidden;">
-      <img 
-        src="assets/images/features/imported-mouldings.jpg" 
-        alt="Imported Mouldings"
-        style="width:100%; height:100%; object-fit:cover; transition:0.4s ease;"
-      />
+    <div style="position:relative;height:220px;overflow:hidden;">
+      <img src="assets/images/features/crystal-frames.jpg" alt="Crystal Frames"
+        style="width:100%;height:100%;object-fit:cover;transition:.6s;"
+        onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
     </div>
 
-    <!-- Content -->
-    <div style="padding:25px;">
-      <h3 style="font-size:20px; font-weight:700; margin-bottom:10px;">
-        <a href="products.php" style="color:#0b2c5d; text-decoration:none;">
-          Imported Mouldings
-        </a>
-      </h3>
-
-      <p style="font-size:15px; color:#666; line-height:1.6; margin-bottom:15px;">
-        Premium imported frame mouldings in multiple designs and finishes.
-      </p>
-
-      <a href="products.php" style="font-size:14px; font-weight:600; color:#e85b2c; text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
-        <i class="fas fa-arrow-right"></i>
-        View Products
-      </a>
+    <div class="card-body" style="padding:28px;">
+      <h5 style="font-weight:700;color:#0b2c5d;">Crystal Frames</h5>
+      <p style="color:#666;line-height:1.7;">Crystal frames with all accessories included.</p>
+      <a href="products.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
-
   </div>
 </div>
+
 
 
 
@@ -652,179 +575,185 @@
 
       <!--Services One Start-->
       <section class="services-one">
-  <div
-    class="services-one-bg"
-    style="
-      background-image: url(assets/images/backgrounds/services-one-bg.jpg);
-    "
-  ></div>
+  <div class="services-one-bg" style="background-image:url(assets/images/backgrounds/services-one-bg.jpg);"></div>
+
   <div class="container">
     <div class="section-title text-center">
-      <span class="section-title__tagline">our Services</span>
+      <span class="section-title__tagline">our Products</span>
       <h2 class="section-title__title">What We Offer</h2>
     </div>
+
     <div class="row">
 
-      <!-- Service 1 -->
-      <div
-        class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
-        data-wow-delay="100ms"
-      >
+      <!-- 1. Wooden Mouldings -->
+      <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
         <div class="services-one__single">
           <div class="services-one__img">
-            <img src="assets/images/services/services-1-1a.jpg" alt="" />
+            <img src="assets/images/services/services-1-1a.jpg" alt="Wooden Mouldings">
           </div>
           <div class="services-one__content">
-            <div class="services-one__icon">
-              <span class="icon-table"></span>
-            </div>
-            <h3 class="services-one__title">
-  <a href="products.php">Wooden Mouldings</a>
-</h3>
-<p class="services-one__text">
-  Premium quality wooden mouldings available in classic, modern, and designer finishes.
-</p>
-
-            <div class="services-one__arrow">
-              <a href="products.php"><i class="fas fa-arrow-right"></i></a>
-            </div>
+            <div class="services-one__icon"><span class="icon-table"></span></div>
+            <h3 class="services-one__title"><a href="products.php">Wooden Mouldings</a></h3>
+            <p class="services-one__text">
+              Premium quality wooden mouldings available in classic, modern, and designer finishes.
+            </p>
+            <ul style="padding-left:18px;
+                        font-size:14px;
+                        color:#555;
+                        line-height:1.6;
+                        text-align:left;
+                        margin-left:0;
+                        list-style-position:outside;">
+              <li>Teak Wood Frames</li>
+              <li>Walnut Finish Mouldings</li>
+              <li>Antique Wooden Profiles</li>
+            </ul>
+            <div class="services-one__arrow mt-2"><a href="products.php"><i class="fas fa-arrow-right"></i></a></div>
           </div>
           <div class="services-one__shape-1"></div>
         </div>
       </div>
 
-      <!-- Service 2 -->
-      <div
-        class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
-        data-wow-delay="200ms"
-      >
+      <!-- 2. Synthetic Mouldings -->
+      <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
         <div class="services-one__single">
           <div class="services-one__img">
-            <img src="assets/images/services/services-1-2a.jpg" alt="" />
+            <img src="assets/images/services/services-1-2a.jpg" alt="Synthetic Mouldings">
           </div>
           <div class="services-one__content">
-            <div class="services-one__icon">
-              <span class="icon-chainsaw"></span>
-            </div>
-            <h3 class="services-one__title">
-  <a href="products.php">Synthetic Mouldings</a>
-</h3>
-<p class="services-one__text">
-  Durable and cost-effective synthetic mouldings suitable for modern framing needs.
-</p>
-            <div class="services-one__arrow">
-              <a href="products.php"><i class="fas fa-arrow-right"></i></a>
-            </div>
+            <div class="services-one__icon"><span class="icon-chainsaw"></span></div>
+            <h3 class="services-one__title"><a href="products.php">Synthetic Mouldings</a></h3>
+            <p class="services-one__text">
+              Durable and cost-effective synthetic mouldings suitable for modern framing needs.
+            </p>
+            <ul style="padding-left:18px;
+                        font-size:14px;
+                        color:#555;
+                        line-height:1.6;
+                        text-align:left;
+                        margin-left:0;
+                        list-style-position:outside;">
+              <li>Matte Finish Frames</li>
+              <li>Glossy Designer Profiles</li>
+              <li>Lightweight Synthetic Borders</li>
+            </ul>
+            <div class="services-one__arrow mt-2"><a href="products.php"><i class="fas fa-arrow-right"></i></a></div>
           </div>
           <div class="services-one__shape-1"></div>
         </div>
       </div>
 
-      <!-- Service 3 -->
-      <div
-        class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
-        data-wow-delay="300ms"
-      >
+      <!-- 3. PVC Mouldings -->
+      <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
         <div class="services-one__single">
           <div class="services-one__img">
-            <img src="assets/images/services/services-1-3a.jpg" alt="" />
+            <img src="assets/images/services/services-1-3a.jpg" alt="PVC Mouldings">
           </div>
           <div class="services-one__content">
-            <div class="services-one__icon">
-              <span class="icon-wood-pile"></span>
-            </div>
-            <h3 class="services-one__title">
-  <a href="products.php">PVC Mouldings</a>
-</h3>
-<p class="services-one__text">
-  Moisture-resistant PVC mouldings ideal for long-lasting and low-maintenance applications.
-</p>
-
-            <div class="services-one__arrow">
-              <a href="products.php"><i class="fas fa-arrow-right"></i></a>
-            </div>
+            <div class="services-one__icon"><span class="icon-wood-pile"></span></div>
+            <h3 class="services-one__title"><a href="products.php">PVC Mouldings</a></h3>
+            <p class="services-one__text">
+              Moisture-resistant PVC mouldings ideal for long-lasting and low-maintenance applications.
+            </p>
+            <ul style="padding-left:18px;
+                        font-size:14px;
+                        color:#555;
+                        line-height:1.6;
+                        text-align:left;
+                        margin-left:0;
+                        list-style-position:outside;">
+              <li>Waterproof PVC Frames</li>
+              <li>White & Color PVC Profiles</li>
+              <li>Wall & Photo Frames</li>
+            </ul>
+            <div class="services-one__arrow mt-2"><a href="products.php"><i class="fas fa-arrow-right"></i></a></div>
           </div>
           <div class="services-one__shape-1"></div>
         </div>
       </div>
 
-      <div
-        class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
-        data-wow-delay="300ms"
-      >
+      <!-- 4. Ready-Made Frames -->
+      <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
         <div class="services-one__single">
           <div class="services-one__img">
-            <img src="assets/images/services/services-1-3a.jpg" alt="" />
+            <img src="assets/images/services/services-1-3a.jpg" alt="Ready-Made Frames">
           </div>
           <div class="services-one__content">
-            <div class="services-one__icon">
-              <span class="icon-wood-pile"></span>
-            </div>
-            <h3 class="services-one__title">
-  <a href="products.php">Ready-Made Frames</a>
-</h3>
-<p class="services-one__text">
-  Ready-made frames available in standard sizes including A4, A5, and A6.
-</p>
-
-            <div class="services-one__arrow">
-              <a href="products.php"><i class="fas fa-arrow-right"></i></a>
-            </div>
+            <div class="services-one__icon"><span class="icon-wood-pile"></span></div>
+            <h3 class="services-one__title"><a href="products.php">Ready-Made Frames</a></h3>
+            <p class="services-one__text">
+              Ready-made frames available in standard sizes including A4, A5, and A6.
+            </p>
+            <ul style="padding-left:18px;
+                        font-size:14px;
+                        color:#555;
+                        line-height:1.6;
+                        text-align:left;
+                        margin-left:0;
+                        list-style-position:outside;">
+              <li>A4 Certificate Frames</li>
+              <li>A5 Photo Frames</li>
+              <li>A6 Table Frames</li>
+            </ul>
+            <div class="services-one__arrow mt-2"><a href="products.php"><i class="fas fa-arrow-right"></i></a></div>
           </div>
           <div class="services-one__shape-1"></div>
         </div>
       </div>
 
-      <div
-        class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
-        data-wow-delay="300ms"
-      >
+      <!-- 5. Corporate Frames -->
+      <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
         <div class="services-one__single">
           <div class="services-one__img">
-            <img src="assets/images/services/services-1-3a.jpg" alt="" />
+            <img src="assets/images/services/services-1-3a.jpg" alt="Corporate Frames">
           </div>
           <div class="services-one__content">
-            <div class="services-one__icon">
-              <span class="icon-wood-pile"></span>
-            </div>
-            <h3 class="services-one__title">
-  <a href="products.php">Corporate Frames</a>
-</h3>
-<p class="services-one__text">
-  Professional framing solutions for offices, certificates, awards, and branding.
-</p>
-
-            <div class="services-one__arrow">
-              <a href="products.php"><i class="fas fa-arrow-right"></i></a>
-            </div>
+            <div class="services-one__icon"><span class="icon-wood-pile"></span></div>
+            <h3 class="services-one__title"><a href="products.php">Corporate Frames</a></h3>
+            <p class="services-one__text">
+              Professional framing solutions for offices, certificates, awards, and branding.
+            </p>
+            <ul style="padding-left:18px;
+                        font-size:14px;
+                        color:#555;
+                        line-height:1.6;
+                        text-align:left;
+                        margin-left:0;
+                        list-style-position:outside;">
+              <li>Office Certificate Frames</li>
+              <li>Award & Recognition Frames</li>
+              <li>Brand Display Frames</li>
+            </ul>
+            <div class="services-one__arrow mt-2"><a href="products.php"><i class="fas fa-arrow-right"></i></a></div>
           </div>
           <div class="services-one__shape-1"></div>
         </div>
       </div>
 
-      <!-- Service 4 -->
-      <div
-        class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
-        data-wow-delay="400ms"
-      >
+      <!-- 6. Crystal Frames & Accessories -->
+      <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
         <div class="services-one__single">
           <div class="services-one__img">
-            <img src="assets/images/services/services-1-4a.jpg" alt="" />
+            <img src="assets/images/services/services-1-4a.jpg" alt="Crystal Frames">
           </div>
           <div class="services-one__content">
-            <div class="services-one__icon">
-              <span class="icon-table"></span>
-            </div>
-            <h3 class="services-one__title">
-  <a href="products.php">Crystal Frames & Accessories</a>
-</h3>
-<p class="services-one__text">
-  Elegant crystal frames supplied with complete accessories including page nuts and fittings.
-</p>
-
-            <div class="services-one__arrow">
-              <a href="products.php"><i class="fas fa-arrow-right"></i></a>
-            </div>
+            <div class="services-one__icon"><span class="icon-table"></span></div>
+            <h3 class="services-one__title"><a href="products.php">Crystal Frames Accessories</a></h3>
+            <p class="services-one__text">
+              Elegant crystal frames with complete accessories with page nuts and fittings.
+            </p>
+            <ul style=" padding-left:18px;
+                        font-size:14px;
+                        color:#555;
+                        line-height:1.6;
+                        text-align:left;
+                        margin-left:0;
+                        list-style-position:outside;">
+              <li>Crystal Photo Frames</li>
+              <li>Table-Top Crystal Frames</li>
+              <li>Page Nuts & Mounting Accessories</li>
+            </ul>
+            <div class="services-one__arrow mt-2"><a href="products.php"><i class="fas fa-arrow-right"></i></a></div>
           </div>
           <div class="services-one__shape-1"></div>
         </div>
@@ -833,6 +762,7 @@
     </div>
   </div>
 </section>
+
 
       <!--Services One End-->
 
