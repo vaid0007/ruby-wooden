@@ -64,11 +64,31 @@
                                         <li class="dropdown">
                                             <a href="#">Services</a>
                                             <ul>
-                                                        <li><a href="Wooden_Photo_Frame_Manufacturing.php">Wooden Photo Frames</a></li>
-                                                        <li><a href="Woode_ Mouldings_and_Trim_Profiles.php">Wooden Mouldings</a></li>
-                                                        <li><a href="Photo_Frame_Accessories.php">Frame Accessories</a></li>
-                                                        <li><a href="Custom_Frame_and_Moulding_Orders.php">Custom Frame & Moulding Orders</a></li>
-                                                    </ul>
+  <li>
+    <a href="wooden-mouldings.php">Wooden Mouldings</a>
+  </li>
+
+  <li>
+    <a href="synthetic-mouldings.php">Synthetic Mouldings</a>
+  </li>
+
+  <li>
+    <a href="pvc-mouldings.php">PVC Mouldings</a>
+  </li>
+
+  <li>
+    <a href="ready-made-frames.php">Ready-Made Frames</a>
+  </li>
+
+  <li>
+    <a href="corporate-frames.php">Corporate Frames</a>
+  </li>
+
+  <li>
+    <a href="crystal-frames.php">Crystal Frames</a>
+  </li>
+</ul>
+
                                         </li>
                                         <li>
                                             <a href="gallery.php">Gallery</a>

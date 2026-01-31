@@ -9194,6 +9194,7 @@ ul {
 .service-details__text-1 {
   font-size: 18px;
   opacity: .80;
+  line-height: 1;
   padding-top: 25px;
   padding-bottom: 31px;
 }
@@ -9201,6 +9202,7 @@ ul {
 .service-details__text-2 {
   font-size: 18px;
   opacity: .80;
+  line-height: 1;
 }
 
 .service-details__img-one {
@@ -9223,6 +9225,7 @@ ul {
 .service-details__text-3 {
   font-size: 18px;
   opacity: .80;
+  line-height: 1;
   margin-top: 17px;
   margin-bottom: 31px;
 }
@@ -9230,6 +9233,7 @@ ul {
 .service-details__text-4 {
   font-size: 18px;
   opacity: .80;
+  line-height: 1;
 }
 
 .service-details__points-box {
@@ -9286,6 +9290,7 @@ ul {
 .service-details__points-text {
   color: var(--woodza-white);
   opacity: .80;
+  line-height: 1;
 }
 
 .service-details__benefits {
@@ -9388,6 +9393,7 @@ ul {
 .service-details__benefits-text {
   font-size: 18px;
   opacity: .80;
+  line-height: 1;
 }
 
 .service-details__faq {
