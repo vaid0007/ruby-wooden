@@ -467,52 +467,15 @@
   <div class="container">
     <div class="row">
       <div class="col-xl-6">
-        <div
-          class="why-choose-one__left wow slideInLeft"
-          data-wow-delay="100ms"
-          data-wow-duration="2500ms"
-        >
-          <div class="why-choose-one__img-box">
-            <div class="why-choose-one__img">
-              <img
-                src="assets/images/resources/why-choose-one-img-1aa.jpg"
-                alt=""
-              />
-              <div class="why-choose-one__dot float-bob-y">
-                <img
-                  src="assets/images/shapes/why-choose-one-dot.png"
-                  alt=""
-                />
-              </div>
-            </div>
-            <div class="why-choose-one__img-two">
-              <img
-                src="assets/images/resources/why-choose-one-img-2aa.jpg"
-                alt=""
-              />
-            </div>
-            <div class="why-choose-one__border"></div>
-            <div class="why-choose-one__customer-service">
-              <div class="why-choose-one__customer-service-icon">
-                <span class="icon-emoji-chat-message"></span>
-              </div>
-              <div class="why-choose-one__customer-service-content">
-                <h4>
-                  Reliable <br />
-                  Customer Support
-                </h4>
-              </div>
-              <div
-                class="why-choose-one__customer-service-dot float-bob-x"
-              >
-                <img
-                  src="assets/images/shapes/why-choose-one-customer-service-dot.png"
-                  alt=""
-                />
-              </div>
-            </div>
-          </div>
-        </div>
+        <div class="overflow-hidden rounded-4 shadow-lg">
+  <img
+    src="assets/images/services/services-1-1a.jpg"
+    alt="Wooden Mouldings"
+    class="img-fluid"
+    style="width:100%"
+  />
+</div>
+
       </div>
 
       <div class="col-xl-6">
