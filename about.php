@@ -188,63 +188,66 @@
       </div>
 
             <div class="col-xl-6">
-                <div class="why-choose-three__right">
-                    <div class="section-title text-left">
-                        <span class="section-title__tagline">our journey</span>
-                        <h2 class="section-title__title">Welcome to Beenu Traders</h2>
+    <div class="why-choose-three__right">
+        <div class="section-title text-left">
+            <span class="section-title__tagline">our journey</span>
+            <h2 class="section-title__title">Welcome to SRB Molding (Beenu Traders)</h2>
+        </div>
+
+        <p class="why-choose-three__text-1">
+            SRB Molding (Beenu Traders) is a trusted name in the supply of premium
+            mouldings, ready-made frames, corporate frames, crystal frames, and
+            framing accessories. We cater to retailers, interior designers,
+            framers, and bulk buyers with reliable products and consistent quality.
+        </p>
+
+        <ul class="list-unstyled why-choose-three__points">
+            <li>
+                <div class="icon">
+                    <span class="icon-check"></span>
+                </div>
+                <div class="text">
+                    <p>Complete range of wooden, synthetic, PVC mouldings and frames.</p>
+                </div>
+            </li>
+            <li>
+                <div class="icon">
+                    <span class="icon-check"></span>
+                </div>
+                <div class="text">
+                    <p>Wholesale and bulk supply with competitive pricing.</p>
+                </div>
+            </li>
+            <li>
+                <div class="icon">
+                    <span class="icon-check"></span>
+                </div>
+                <div class="text">
+                    <p>Reliable quality, timely delivery, and professional service.</p>
+                </div>
+            </li>
+        </ul>
+
+        <div class="why-choose-three__user">
+            <div class="why-choose-three__user-left">
+                <div class="why-choose-three__user-left-img-box">
+                    <div class="why-choose-three__user-left-img">
+                        <img src="assets/images/resources/why-choose-three-left-imga.jpg" alt="Beenu Traders">
                     </div>
-
-                    <p class="why-choose-three__text-1">
-                        Beenu Traders is a trusted supplier of imported and branded mouldings,
-                        frames, and professional framing accessories. We serve retailers,
-                        framers, and industry professionals with quality-focused solutions.
-                    </p>
-
-                    <ul class="list-unstyled why-choose-three__points">
-                        <li>
-                            <div class="icon">
-                                <span class="icon-check"></span>
-                            </div>
-                            <div class="text">
-                                <p>Wide range of imported & branded mouldings.</p>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="icon">
-                                <span class="icon-check"></span>
-                            </div>
-                            <div class="text">
-                                <p>Competitive wholesale pricing with assured quality.</p>
-                            </div>
-                        </li>
-                    </ul>
-
-                    <div class="why-choose-three__user">
-                        <div class="why-choose-three__user-left">
-                            <div class="why-choose-three__user-left-img-box">
-                                <div class="why-choose-three__user-left-img">
-                                    <img src="assets/images/resources/why-choose-three-left-imga.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="why-choose-three__user-right">
-                            <p class="why-choose-three__user-text">
-                                Decades of experience delivering premium framing materials
-                                trusted across the industry.
-                            </p>
-                            <!-- <div class="why-choose-three__user-box">
-                                <div class="why-choose-one__user-box-img">
-                                    <img src="assets/images/resources/why-choose-one-user-img.jpg" alt="">
-                                </div>
-                                <div class="why-choose-one__user-box-sign">
-                                    <img src="assets/images/resources/why-choose-one-user-sign.png" alt="">
-                                </div>
-                            </div> -->
-                        </div>
-                    </div>
-
                 </div>
             </div>
+            <div class="why-choose-three__user-right">
+                <p class="why-choose-three__user-text">
+                    Backed by years of experience in the framing industry, SRB Molding
+                    (Beenu Traders) is committed to delivering dependable products
+                    that meet the needs of modern interiors and professional framing.
+                </p>
+            </div>
+        </div>
+
+    </div>
+</div>
+
 
         </div>
     </div>
@@ -322,85 +325,87 @@
         <div class="row">
 
             <div class="col-xl-6">
-                <div class="statment__left">
-                    <div class="section-title text-left">
-                        <span class="section-title__tagline">OUR STATEMENTS</span>
-                        <h2 class="section-title__title">
-                            Quality, Trust & Consistency in Every Product
-                        </h2>
+    <div class="statment__left">
+        <div class="section-title text-left">
+            <span class="section-title__tagline">OUR STATEMENTS</span>
+            <h2 class="section-title__title">
+                Quality, Trust & Consistency in Every Product
+            </h2>
+        </div>
+        <p class="statment__text-1">
+            SRB Molding (BEENU TRADERS) is committed to supplying reliable and
+            high-quality mouldings, frames, and framing accessories. Our business
+            is built on long-term relationships, consistent product standards,
+            and dependable service for retailers, framers, and bulk buyers.
+        </p>
+    </div>
+</div>
+
+<div class="col-xl-6">
+    <div class="statment__right">
+        <ul class="list-unstyled statment__count-list">
+
+            <li>
+                <div class="statment__count-icon">
+                    <span class="icon-success"></span>
+                </div>
+                <div class="statment__count-content-box">
+                    <div class="statment__count-content">
+                        <h3 class="odometer" data-count="25">00</h3>
+                        <span class="statment__count-plus">+</span>
                     </div>
-                    <p class="statment__text-1">
-                        Beenu Traders is committed to supplying premium imported and
-                        branded mouldings, frames, and framing accessories. Our focus
-                        is on long-term relationships built on quality and reliability.
+                    <p class="statment__count-text">Years of Industry Experience</p>
+                </div>
+            </li>
+
+            <li>
+                <div class="statment__count-icon">
+                    <span class="icon-maple-leaf"></span>
+                </div>
+                <div class="statment__count-content-box">
+                    <div class="statment__count-content">
+                        <h3 class="odometer" data-count="3000">00</h3>
+                        <span class="statment__count-plus">+</span>
+                    </div>
+                    <p class="statment__count-text">Satisfied Customers Across India</p>
+                </div>
+            </li>
+
+            <li>
+                <div class="statment__count-icon">
+                    <span class="icon-medal"></span>
+                </div>
+                <div class="statment__count-content-box">
+                    <div class="statment__count-content">
+                        <h3>Trusted</h3>
+                    </div>
+                    <p class="statment__count-text">Framing & Moulding Partner</p>
+                </div>
+            </li>
+
+            <li>
+                <div class="statment__count-icon">
+                    <span class="icon-chainsaw"></span>
+                </div>
+                <div class="statment__count-content-box">
+                    <div class="statment__count-content">
+                        <h3 class="odometer" data-count="100">00</h3>
+                        <span class="statment__count-plus">+</span>
+                    </div>
+                    <p class="statment__count-text">
+                        Product <br> Variants Available
                     </p>
                 </div>
-            </div>
+            </li>
 
-            <div class="col-xl-6">
-                <div class="statment__right">
-                    <ul class="list-unstyled statment__count-list">
+        </ul>
+        <p class="statment__right-text">
+            Supporting framing professionals with consistent quality, competitive
+            pricing, and dependable supply across mouldings and frames.
+        </p>
+    </div>
+</div>
 
-                        <li>
-                            <div class="statment__count-icon">
-                                <span class="icon-success"></span>
-                            </div>
-                            <div class="statment__count-content-box">
-                                <div class="statment__count-content">
-                                    <h3 class="odometer" data-count="25">00</h3>
-                                    <span class="statment__count-plus">+</span>
-                                </div>
-                                <p class="statment__count-text">Years of Industry Experience</p>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="statment__count-icon">
-                                <span class="icon-maple-leaf"></span>
-                            </div>
-                            <div class="statment__count-content-box">
-                                <div class="statment__count-content">
-                                    <h3 class="odometer" data-count="3000">00</h3>
-                                    <span class="statment__count-plus">+</span>
-                                </div>
-                                <p class="statment__count-text">Satisfied Customers</p>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="statment__count-icon">
-                                <span class="icon-medal"></span>
-                            </div>
-                            <div class="statment__count-content-box">
-                                <div class="statment__count-content">
-                                    <h3>Trusted</h3>
-                                </div>
-                                <p class="statment__count-text">Framing Partner</p>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="statment__count-icon">
-                                <span class="icon-chainsaw"></span>
-                            </div>
-                            <div class="statment__count-content-box">
-                                <div class="statment__count-content">
-                                    <h3 class="odometer" data-count="100">00</h3>
-                                    <span class="statment__count-plus">+</span>
-                                </div>
-                                <p class="statment__count-text">
-                                    Product <br> Variants Available
-                                </p>
-                            </div>
-                        </li>
-
-                    </ul>
-                    <p class="statment__right-text">
-                        Supplying framing professionals with dependable materials
-                        that enhance quality and finish.
-                    </p>
-                </div>
-            </div>
 
         </div>
 
