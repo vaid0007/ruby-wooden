@@ -11,7 +11,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- ===== PRIMARY SEO ===== -->
-  <title>Wooden Mouldings & Trim Profiles | Ruby Wooden</title>
+  <title>Crystal Frames | Ruby Wooden</title>
 
   <meta name="description"
     content="Discover premium wooden mouldings and trim profiles by Ruby Wooden, available in modern, classic, and decorative designs with superior finish and durability." />
@@ -107,13 +107,13 @@
       </div>
       <div class="container">
         <div class="page-header__inner">
-          <h1 class="fw-bold display-5 text-white lh-sm">Wooden Mouldings</h1>
+          <h1 class="fw-bold display-5 text-white lh-sm">Crystal Frames</h1>
           <ul class="thm-breadcrumb list-unstyled">
             <li><a href="index.php">Home</a></li>
             <li><span>/</span></li>
-            <li><a href="services.html">services</a></li>
+            <li><a href="#">services</a></li>
             <li><span>/</span></li>
-            <li>Wooden Mouldings</li>
+            <li>Crystal Frames</li>
           </ul>
         </div>
       </div>

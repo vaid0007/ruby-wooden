@@ -111,7 +111,7 @@
           <ul class="thm-breadcrumb list-unstyled">
             <li><a href="index.php">Home</a></li>
             <li><span>/</span></li>
-            <li><a href="services.html">services</a></li>
+            <li><a href="#">services</a></li>
             <li><span>/</span></li>
             <li>Wooden Mouldings</li>
           </ul>
@@ -144,7 +144,7 @@
                 </p>
 
                 <div class="service-details__img-one">
-                  <img src="assets/images/services/service-details-img-5a.jpg" alt="Wooden Mouldings by SRB Molding">
+                  <img src="assets/images/resources/woodenmouldings_1.jpeg" alt="Wooden Mouldings by SRB Molding">
                 </div>
 
                 <h4 class="service-details__content-title-two">Interior & Furniture Applications</h4>
@@ -194,7 +194,7 @@
                 <div class="row">
                   <div class="col-xl-6">
                     <div class="service-details__benefits-img">
-                      <img src="assets/images/services/service-details-benefits-img.jpg" alt="Wooden Moulding Benefits">
+                      <img src="assets/images/resources/woodenmouldings_2.jpeg" alt="Wooden Moulding Benefits">
                     </div>
                   </div>
 
