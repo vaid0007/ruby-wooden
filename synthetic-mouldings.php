@@ -143,7 +143,7 @@
       </p>
 
       <div class="service-details__img-one">
-        <img src="assets/images/services/service-details-img-5a.jpg" alt="Synthetic Mouldings by SRB Molding">
+        <img src="assets/images/resources/synthetic-mouldings1.png" alt="Synthetic Mouldings by SRB Molding">
       </div>
 
       <h4 class="service-details__content-title-two">Modern Interior Applications</h4>
@@ -191,7 +191,7 @@
       <div class="row">
         <div class="col-xl-6">
           <div class="service-details__benefits-img">
-            <img src="assets/images/services/service-details-benefits-img.jpg" alt="Synthetic Moulding Benefits">
+            <img src="assets/images/resources/synthetic-mouldings2.png" alt="Synthetic Moulding Benefits">
           </div>
         </div>
 

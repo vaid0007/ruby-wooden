@@ -464,7 +464,7 @@
 
         <!--Testimonial Three Start-->
         <section class="testimonial-three">
-    <div class="testimonial-three-bg" style="background-image: url(assets/images/backgrounds/testimonial-three-bga.jpg);"></div>
+    <div class="testimonial-three-bg" style="background-image: url(assets/images/resources/about_2.jpeg);"></div>
     <div class="container">
         <div class="row">
 
