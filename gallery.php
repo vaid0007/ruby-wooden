@@ -130,236 +130,40 @@
         <!--Page Header End-->
 
         <!--Team Page Start-->
-        <section class="team-page">
-            <div class="container">
-                <div class="row">
-                </div>
-            </div>
-        </section>
+<section class="team-page py-5" style="background:#f8f9fa;">
+    <div class="container">
+
+        <!-- Heading -->
+        <div class="text-center mb-5">
+            <span class="text-uppercase fw-semibold"
+                  style="color:#ff6b00; letter-spacing:1px;">
+                Our Gallery
+            </span>
+            <h2 class="fw-bold mt-2" style="font-size:36px;">
+                Moments That Define Our Work
+            </h2>
+        </div>
+
+        <!-- Gallery -->
+        <div class="row g-4">
+<?php for ($i = 1; $i <= 70; $i++) { ?>
+    <div class="col-lg-4 col-md-6">
+        <div class="overflow-hidden rounded-4 shadow" style="height:280px;">
+            <img src="assets/images/gallery/<?php echo $i; ?>.jpeg"
+                 class="w-100 h-100"
+                 style="object-fit:cover; transition:0.6s ease;"
+                 onmouseover="this.style.transform='scale(1.12)'"
+                 onmouseout="this.style.transform='scale(1)'"
+                 alt="Gallery Image <?php echo $i; ?>">
+        </div>
+    </div>
+<?php } ?>
+</div>
+    </div>
+</section>
+
+
         <!--Team Page End-->
-
-        <!--Testimonial Three Start-->
-        <section class="testimonial-three">
-            <div class="testimonial-three-bg" style="background-image: url(assets/images/backgrounds/testimonial-three-bga.jpg);"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-5">
-                        <div class="testimonial-three__left">
-                            <div class="section-title text-left">
-                                <span class="section-title__tagline">Testimonial</span>
-                                <h2 class="section-title__title">Words From Our Customer</h2>
-                            </div>
-                            <p class="testimonial-three__text">Lorem Ipsum available, but the majority have suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua ipsum quia </p>
-                        </div>
-                    </div>
-                    <div class="col-xl-7">
-                        <div class="testimonial-three__right">
-                            <div class="testimonial-three__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
-                                "loop": true,
-                                "autoplay": true,
-                                "margin": 30,
-                                "nav": true,
-                                "dots": false,
-                                "smartSpeed": 500,
-                                "autoplayTimeout": 10000,
-                                "navText": ["<span class=\"icon-left-arrow-4\"></span>","<span class=\"icon-right-arrow-4\"></span>"],
-                                "responsive": {
-                                    "0": {
-                                        "items": 1
-                                    },
-                                    "768": {
-                                        "items": 2
-                                    },
-                                    "992": {
-                                        "items": 2
-                                    },
-                                    "1200": {
-                                        "items": 2
-                                    }
-                                }
-                            }'>
-                                <!--Testimonial Three Single Start-->
-                                <div class="item">
-                                    <div class="testimonial-three__single">
-                                        <p class="testimonial-three__text-2">Lorem Ipsum available, but the majority have suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua ipsum quia</p>
-                                        <div class="testimonial-three__client-info">
-                                            <div class="testimonial-three__client-details">
-                                                <div class="testimonial-three__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-three-client-img-1.jpg" alt="">
-                                                </div>
-                                                <div class="testimonial-three__client-content">
-                                                    <h4>Wiliam Adak</h4>
-                                                    <p>Client for Woodin</p>
-                                                </div>
-                                            </div>
-                                            <div class="testimonial-three__quote">
-                                                <span class="icon-quote"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--Testimonial Three Single End-->
-                                <!--Testimonial Three Single Start-->
-                                <div class="item">
-                                    <div class="testimonial-three__single">
-                                        <p class="testimonial-three__text-2">Lorem Ipsum available, but the majority have suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua ipsum quia</p>
-                                        <div class="testimonial-three__client-info">
-                                            <div class="testimonial-three__client-details">
-                                                <div class="testimonial-three__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-three-client-img-2.jpg" alt="">
-                                                </div>
-                                                <div class="testimonial-three__client-content">
-                                                    <h4>Wiliam Smith</h4>
-                                                    <p>Client for Woodin</p>
-                                                </div>
-                                            </div>
-                                            <div class="testimonial-three__quote">
-                                                <span class="icon-quote"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--Testimonial Three Single End-->
-                                <!--Testimonial Three Single Start-->
-                                <div class="item">
-                                    <div class="testimonial-three__single">
-                                        <p class="testimonial-three__text-2">Lorem Ipsum available, but the majority have suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua ipsum quia</p>
-                                        <div class="testimonial-three__client-info">
-                                            <div class="testimonial-three__client-details">
-                                                <div class="testimonial-three__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-three-client-img-1.jpg" alt="">
-                                                </div>
-                                                <div class="testimonial-three__client-content">
-                                                    <h4>Wiliam Adak</h4>
-                                                    <p>Client for Woodin</p>
-                                                </div>
-                                            </div>
-                                            <div class="testimonial-three__quote">
-                                                <span class="icon-quote"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--Testimonial Three Single End-->
-                                <!--Testimonial Three Single Start-->
-                                <div class="item">
-                                    <div class="testimonial-three__single">
-                                        <p class="testimonial-three__text-2">Lorem Ipsum available, but the majority have suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua ipsum quia</p>
-                                        <div class="testimonial-three__client-info">
-                                            <div class="testimonial-three__client-details">
-                                                <div class="testimonial-three__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-three-client-img-2.jpg" alt="">
-                                                </div>
-                                                <div class="testimonial-three__client-content">
-                                                    <h4>Wiliam Smith</h4>
-                                                    <p>Client for Woodin</p>
-                                                </div>
-                                            </div>
-                                            <div class="testimonial-three__quote">
-                                                <span class="icon-quote"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--Testimonial Three Single End-->
-                                <!--Testimonial Three Single Start-->
-                                <div class="item">
-                                    <div class="testimonial-three__single">
-                                        <p class="testimonial-three__text-2">Lorem Ipsum available, but the majority have suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua ipsum quia</p>
-                                        <div class="testimonial-three__client-info">
-                                            <div class="testimonial-three__client-details">
-                                                <div class="testimonial-three__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-three-client-img-1.jpg" alt="">
-                                                </div>
-                                                <div class="testimonial-three__client-content">
-                                                    <h4>Wiliam Adak</h4>
-                                                    <p>Client for Woodin</p>
-                                                </div>
-                                            </div>
-                                            <div class="testimonial-three__quote">
-                                                <span class="icon-quote"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--Testimonial Three Single End-->
-                                <!--Testimonial Three Single Start-->
-                                <div class="item">
-                                    <div class="testimonial-three__single">
-                                        <p class="testimonial-three__text-2">Lorem Ipsum available, but the majority have suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua ipsum quia</p>
-                                        <div class="testimonial-three__client-info">
-                                            <div class="testimonial-three__client-details">
-                                                <div class="testimonial-three__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-three-client-img-2.jpg" alt="">
-                                                </div>
-                                                <div class="testimonial-three__client-content">
-                                                    <h4>Wiliam Smith</h4>
-                                                    <p>Client for Woodin</p>
-                                                </div>
-                                            </div>
-                                            <div class="testimonial-three__quote">
-                                                <span class="icon-quote"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--Testimonial Three Single End-->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Testimonial Three End-->
-
-        <!--Counter One Start-->
-        <section class="counter-two">
-            <div class="container">
-                <div class="counter-two__inner">
-                    <div class="counter-two-bg" style="background-image: url(assets/images/backgrounds/counter-two-bg.jpg);"></div>
-                    <ul class="list-unstyled counter-two__list">
-                        <li class="wow fadeInUp" data-wow-delay="100ms">
-                            <div class="counter-two__count-box">
-                                <h3 class="odometer" data-count="25">00</h3>
-                                <span class="counter-two__plus">+</span>
-                            </div>
-                            <p class="counter-two__text">Years of experience</p>
-                            <div class="counter-two__icon">
-                                <span class="icon-hand-rating-smile"></span>
-                            </div>
-                        </li>
-                        <li class="wow fadeInUp" data-wow-delay="200ms">
-                            <div class="counter-two__count-box">
-                                <h3 class="odometer" data-count="2145">00</h3>
-                            </div>
-                            <p class="counter-two__text">Satisfied clients</p>
-                            <div class="counter-two__icon">
-                                <span class="icon-mail-message"></span>
-                            </div>
-                        </li>
-                        <li class="wow fadeInUp" data-wow-delay="300ms">
-                            <div class="counter-two__count-box">
-                                <h3 class="odometer" data-count="245">00</h3>
-                            </div>
-                            <p class="counter-two__text">Project Completed</p>
-                            <div class="counter-two__icon">
-                                <span class="icon-chainsaw"></span>
-                            </div>
-                        </li>
-                        <li class="wow fadeInUp" data-wow-delay="400ms">
-                            <div class="counter-two__count-box">
-                                <h3 class="odometer" data-count="25">00</h3>
-                            </div>
-                            <p class="counter-two__text">Awards Recieved</p>
-                            <div class="counter-two__icon">
-                                <span class="icon-award-certificate-education"></span>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-        <!--Counter One End-->
 
         <!--Contact One Start-->
         <section class="contact-one">

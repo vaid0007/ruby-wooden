@@ -143,7 +143,7 @@
       </p>
 
       <div class="service-details__img-one">
-        <img src="assets/images/services/service-details-img-5a.jpg" alt="Corporate Frames by SRB Molding">
+        <img src="assets/images/resources/corporate-frames1.png" alt="Corporate Frames by SRB Molding">
       </div>
 
       <h4 class="service-details__content-title-two">Office & Institutional Applications</h4>
@@ -190,7 +190,7 @@
       <div class="row">
         <div class="col-xl-6">
           <div class="service-details__benefits-img">
-            <img src="assets/images/services/service-details-benefits-img.jpg" alt="Corporate Frame Benefits">
+            <img src="assets/images/gallery/23.jpeg" alt="Corporate Frame Benefits">
           </div>
         </div>
 

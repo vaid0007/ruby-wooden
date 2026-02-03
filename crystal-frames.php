@@ -144,7 +144,7 @@
       </p>
 
       <div class="service-details__img-one">
-        <img src="assets/images/services/service-details-img-5a.jpg" alt="Crystal Frames by SRB Molding">
+        <img src="assets/images/resources/crystalframes1.png" alt="Crystal Frames by SRB Molding">
       </div>
 
       <h4 class="service-details__content-title-two">Elegant Display Solutions</h4>
@@ -191,7 +191,7 @@
       <div class="row">
         <div class="col-xl-6">
           <div class="service-details__benefits-img">
-            <img src="assets/images/services/service-details-benefits-img.jpg" alt="Crystal Frame Benefits">
+            <img src="assets/images/gallery/48.jpeg" alt="Crystal Frame Benefits">
           </div>
         </div>
 
