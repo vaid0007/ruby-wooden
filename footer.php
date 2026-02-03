@@ -49,7 +49,7 @@
                                     <li><a href="about.php">About us</a></li>
                                     <li><a href="Services.php">Services</a></li>
                                     <li><a href="gallery.php">Gallery</a></li>
-                                    <li><a href="blog.php">Blog</a></li>
+                                    <!-- <li><a href="blog.php">Blog</a></li> -->
                                     <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </div>
