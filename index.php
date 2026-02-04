@@ -979,15 +979,9 @@
         <div class="about-history__left">
           <div class="about-history__img-one">
             <img
-              src="assets/images/resources/about-history-img-1.jpg"
+              src="assets/images/resources/about-history-img-2a.jpg"
               alt=""
             />
-            <div class="about-history__two">
-              <img
-                src="assets/images/resources/about-history-img-2a.jpg"
-                alt=""
-              />
-            </div>
           </div>
           <div class="about-history__content">
             <h3 class="about-history__title">

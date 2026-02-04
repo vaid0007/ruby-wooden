@@ -253,7 +253,7 @@
                             <div class="problem-solved-three__trusted-content">
                                 <p>Trusted by</p>
                                 <h3 class="odometer" data-count="300">00</h3>
-                                <span>+ Retail Partners</span>
+                                <span class="text-white">+ Retail Partners</span>
                             </div>
                         </div>
                     </div>
@@ -371,10 +371,7 @@
                 <div class="col-xl-9">
                     <div class="about-history-three__left">
                         <div class="about-history-three__img-one">
-                            <img src="assets/images/resources/about-history-img-1.jpg" alt="">
-                            <div class="about-history-three__img-two">
-                                <img src="assets/images/resources/about-history-img-2a.jpg" alt="">
-                            </div>
+                            <img src="assets/images/resources/about-history-img-2a.jpg" alt="">
                         </div>
                         <div class="about-history-three__content">
                             <h3 class="about-history-three__title">
@@ -463,107 +460,100 @@
         <!--Team One End-->
 
         <!--Testimonial Three Start-->
-        <section class="testimonial-three">
-    <div class="testimonial-three-bg" style="background-image: url(assets/images/resources/about_2.jpeg);"></div>
-    <div class="container">
-        <div class="row">
+        <section style="padding:80px 0; background:#f8f9fa;">
+  <div class="container">
+    <div class="row align-items-center">
 
-            <div class="col-xl-5">
-                <div class="testimonial-three__left">
-                    <div class="section-title text-left">
-                        <span class="section-title__tagline">Testimonials</span>
-                        <h2 class="section-title__title">What Our Customers Say</h2>
-                    </div>
-                    <p class="testimonial-three__text">
-                        We take pride in building long-term relationships with framers
-                        and retailers by delivering quality products and dependable service.
-                    </p>
+      <!-- Left Content -->
+      <div class="col-lg-5 mb-4 mb-lg-0">
+        <span style="color:#c59d5f; font-weight:600;">Testimonials</span>
+        <h2 style="font-size:36px; font-weight:700; margin:10px 0;">
+          What Our Customers Say
+        </h2>
+        <p style="color:#666;">
+          We take pride in building long-term relationships with framers
+          and retailers by delivering quality products and dependable service.
+        </p>
+      </div>
+
+      <!-- Slider -->
+      <div class="col-lg-7">
+        <div id="testimonialSlider" class="carousel slide" data-bs-ride="carousel">
+
+          <div class="carousel-inner">
+
+            <!-- Slide 1 -->
+            <div class="carousel-item active">
+              <div style="background:#fff; padding:30px; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.08);">
+                <p style="font-size:16px; color:#444; margin-bottom:20px;">
+                  “Their imported mouldings and framing tools are top-notch.
+                  Pricing is fair and delivery is always on time.”
+                </p>
+                <div style="display:flex; align-items:center;">
+                  <img src="assets/images/testimonial/testimonial-three-client-img-2a.jpg"
+                       style="width:60px; height:60px; border-radius:50%; object-fit:cover; margin-right:15px;">
+                  <div>
+                    <h5 style="margin:0;">Amit Sharma</h5>
+                    <small style="color:#777;">Professional Framer</small>
+                  </div>
                 </div>
+              </div>
             </div>
 
-            <div class="col-xl-7">
-                <div class="testimonial-three__right">
-                    <div class="testimonial-three__carousel owl-carousel owl-theme thm-owl__carousel">
-
-                        <!-- Testimonial 2 -->
-                        <div class="item">
-                            <div class="testimonial-three__single">
-                                <p class="testimonial-three__text-2">
-                                    Their imported mouldings and framing tools are top-notch.
-                                    Pricing is fair and delivery is always on time.
-                                </p>
-                                <div class="testimonial-three__client-info">
-                                    <div class="testimonial-three__client-details">
-                                        <div class="testimonial-three__client-img">
-                                            <img src="assets/images/testimonial/testimonial-three-client-img-2a.jpg" alt="">
-                                        </div>
-                                        <div class="testimonial-three__client-content">
-                                            <h4>Amit Sharma</h4>
-                                            <p>Professional Framer</p>
-                                        </div>
-                                    </div>
-                                    <div class="testimonial-three__quote">
-                                        <span class="icon-quote"></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial 3 -->
-                        <div class="item">
-                            <div class="testimonial-three__single">
-                                <p class="testimonial-three__text-2">
-                                    One of the most reliable suppliers we’ve worked with.
-                                    Excellent support and genuine product quality.
-                                </p>
-                                <div class="testimonial-three__client-info">
-                                    <div class="testimonial-three__client-details">
-                                        <div class="testimonial-three__client-img">
-                                            <img src="assets/images/testimonial/testimonial-three-client-img-1a.jpg" alt="">
-                                        </div>
-                                        <div class="testimonial-three__client-content">
-                                            <h4>Neeraj Gupta</h4>
-                                            <p>Wholesale Buyer</p>
-                                        </div>
-                                    </div>
-                                    <div class="testimonial-three__quote">
-                                        <span class="icon-quote"></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial 4 -->
-                        <div class="item">
-                            <div class="testimonial-three__single">
-                                <p class="testimonial-three__text-2">
-                                    Beenu Traders understands the framing business very well.
-                                    Their product suggestions are always accurate.
-                                </p>
-                                <div class="testimonial-three__client-info">
-                                    <div class="testimonial-three__client-details">
-                                        <div class="testimonial-three__client-img">
-                                            <img src="assets/images/testimonial/testimonial-three-client-img-2b.jpg" alt="">
-                                        </div>
-                                        <div class="testimonial-three__client-content">
-                                            <h4>Sandeep Mehta</h4>
-                                            <p>Art & Frame Studio Owner</p>
-                                        </div>
-                                    </div>
-                                    <div class="testimonial-three__quote">
-                                        <span class="icon-quote"></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
+            <!-- Slide 2 -->
+            <div class="carousel-item">
+              <div style="background:#fff; padding:30px; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.08);">
+                <p style="font-size:16px; color:#444; margin-bottom:20px;">
+                  “One of the most reliable suppliers we’ve worked with.
+                  Excellent support and genuine product quality.”
+                </p>
+                <div style="display:flex; align-items:center;">
+                  <img src="assets/images/testimonial/testimonial-three-client-img-1a.jpg"
+                       style="width:60px; height:60px; border-radius:50%; object-fit:cover; margin-right:15px;">
+                  <div>
+                    <h5 style="margin:0;">Neeraj Gupta</h5>
+                    <small style="color:#777;">Wholesale Buyer</small>
+                  </div>
                 </div>
+              </div>
             </div>
+
+            <!-- Slide 3 -->
+            <div class="carousel-item">
+              <div style="background:#fff; padding:30px; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.08);">
+                <p style="font-size:16px; color:#444; margin-bottom:20px;">
+                  “They understand the framing business very well.
+                  Product suggestions are always accurate.”
+                </p>
+                <div style="display:flex; align-items:center;">
+                  <img src="assets/images/testimonial/testimonial-three-client-img-2b.jpg"
+                       style="width:60px; height:60px; border-radius:50%; object-fit:cover; margin-right:15px;">
+                  <div>
+                    <h5 style="margin:0;">Sandeep Mehta</h5>
+                    <small style="color:#777;">Art & Frame Studio Owner</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- Controls -->
+          <button class="carousel-control-prev" type="button" data-bs-target="#testimonialSlider" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+          </button>
+
+          <button class="carousel-control-next" type="button" data-bs-target="#testimonialSlider" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+          </button>
 
         </div>
+      </div>
+
     </div>
+  </div>
 </section>
+
 
         <!--Testimonial Three End-->
 
