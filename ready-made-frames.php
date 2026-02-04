@@ -103,7 +103,7 @@
 
     <!--Page Header Start-->
     <section class="page-header">
-      <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg-2.jpg)">
+      <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bga.jpg)">
       </div>
       <div class="container">
         <div class="page-header__inner">
@@ -143,7 +143,7 @@
       </p>
 
       <div class="service-details__img-one">
-        <img src="assets/images/services/service-details-img-5a.jpg" alt="Ready-Made Frames by SRB Molding">
+        <img src="assets/images/services/service-details-img-5aa.jpg" alt="Ready-Made Frames by SRB Molding">
       </div>
 
       <h4 class="service-details__content-title-two">Home, Office & Commercial Use</h4>
@@ -190,7 +190,7 @@
       <div class="row">
         <div class="col-xl-6">
           <div class="service-details__benefits-img">
-            <img src="assets/images/services/service-details-benefits-img.jpg" alt="Ready-Made Frame Benefits">
+            <img src="assets/images/services/service-details-benefits-imga.jpg" alt="Ready-Made Frame Benefits">
           </div>
         </div>
 

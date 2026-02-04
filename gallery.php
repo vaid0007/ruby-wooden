@@ -114,15 +114,15 @@
 
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg-2.jpg)">
+            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bgga.jpg)">
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                   <h1 class="fw-bold display-5 text-white lh-sm">Meet Our Team</h1>
+                   <h1 class="fw-bold display-5 text-white lh-sm">Our Gallery</h1>
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
                         <li><span>/</span></li>
-                        <li>Meet Our Team</li>
+                        <li>Our Gallery</li>
                     </ul>
                 </div>
             </div>
