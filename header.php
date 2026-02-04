@@ -47,6 +47,7 @@
                         <div class="main-menu-two__logo">
                             <a href="index.html"><img src="assets/images/resources/1a.png" alt=""></a>
                         </div>
+
                         <div class="main-menu-two__main-menu-box">
                             <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                             <ul class="main-menu__list">
@@ -88,9 +89,6 @@
                                <li>
                                             <a href="gallery.php">Gallery</a>
                                         </li>
-                                        <!-- <li>
-                                            <a href="blog.php">Blog</a>
-                                        </li> -->
                                         <li>
                                             <a href="contact.php">Contact</a>
                                         </li>

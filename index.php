@@ -128,7 +128,7 @@
                       </p>
                       <h1 class="main-slider__title">
                         Premium Frame <br />
-                        Mouldings & <br />
+                        Mouldings &
                         Accessories
                       </h1>
                       <div class="main-slider__btn-box">
@@ -162,7 +162,7 @@
                       </p>
                       <h2 class="main-slider__title">
                         Wide Range of <br />
-                        Decorative <br />
+                        Decorative
                         Mouldings
                       </h2>
                       <div class="main-slider__btn-box">
@@ -196,7 +196,7 @@
                       </p>
                       <h2 class="main-slider__title">
                         Complete Framing <br />
-                        Tools & <br />
+                        Tools &
                         Solutions
                       </h2>
                       <div class="main-slider__btn-box">

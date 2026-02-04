@@ -1374,8 +1374,9 @@
     }
 
     .main-slider .container {
-        padding-top: 175px;
-        padding-bottom: 175px;
+        padding-top: 100px;
+        padding-bottom: 100px;
+        padding-left: 50px;
     }
 
 
@@ -1448,7 +1449,7 @@
     }  
     
     .main-menu-two__logo {
-        margin-right: 30px;
+        margin-right: 250px;
     }
 
 
@@ -1463,7 +1464,7 @@
     }  
     
     .main-menu-two__logo {
-        margin-right: 30px;
+        margin-right: 250px;
     }
 
     .main-header-two__social {
@@ -1481,6 +1482,7 @@
     .main-menu-two__social-btn {
         padding-top: 34.8px;
         padding-bottom: 34.8px;
+        padding-left: 30px;
     }
 
 
@@ -1529,10 +1531,11 @@
     .main-menu-two__social-btn {
         padding-top: 35px;
         padding-bottom: 35px;
+        padding-left: 30px;
     }
 
     .main-menu-two .mobile-nav__toggler {
-        padding: 46px 0;
+        padding: 37px 0;
         display: inline-block;
     }
 
@@ -1599,7 +1602,7 @@
     }
 
     .main-menu-two .mobile-nav__toggler {
-        padding: 46px 0;
+        padding: 37px 0;
         display: inline-block;
     }
 
@@ -1671,7 +1674,7 @@
     }
 
     .main-menu-two .mobile-nav__toggler {
-        padding: 46px 0;
+        padding: 37px 0;
         display: inline-block;
     }
 
