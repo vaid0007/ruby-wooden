@@ -104,7 +104,7 @@
                             </div>
                             <div class="main-menu-two__call-content">
                                 <p class="main-menu-two__call-sub-title">Phone Number</p>
-                                <h4 class="main-menu-two__call-number"><a href="tel:88001152">(88) 00-11-52 Call</a>
+                                <h4 class="main-menu-two__call-number"><a href="tel:+91 9811217586">(+91) 98112 17586 Call</a>
                                 </h4>
                             </div>
                         </div>
@@ -144,7 +144,7 @@
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:666-888-0000">666 888 0000</a>
+                    <a href="tel:+91 9811217586">+91 9811217586</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
