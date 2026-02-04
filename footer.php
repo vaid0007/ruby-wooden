@@ -46,8 +46,8 @@
                                 </div>
                                 <ul class="footer-widget__link-list list-unstyled clearfix">
                                     <li><a href="index.php">Home</a></li>
-                                    <li><a href="about.php">About us</a></li>
-                                    <li><a href="Services.php">Services</a></li>
+                                    <li><a href="about.php">About Us</a></li>
+                                    <li><a href="">Services</a></li>
                                     <li><a href="gallery.php">Gallery</a></li>
                                     <!-- <li><a href="blog.php">Blog</a></li> -->
                                     <li><a href="contact.php">Contact</a></li>

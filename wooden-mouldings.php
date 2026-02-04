@@ -111,7 +111,7 @@
           <ul class="thm-breadcrumb list-unstyled">
             <li><a href="index.php">Home</a></li>
             <li><span>/</span></li>
-            <li><a href="#">services</a></li>
+            <li>services</li>
             <li><span>/</span></li>
             <li>Wooden Mouldings</li>
           </ul>

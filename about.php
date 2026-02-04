@@ -116,11 +116,11 @@
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h1 class="fw-bold display-5 text-white lh-sm">About us</h1>
+                    <h1 class="fw-bold display-5 text-white lh-sm">About Us</h1>
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
                         <li><span>/</span></li>
-                        <li>About us</li>
+                        <li>About Us</li>
                     </ul>
                 </div>
             </div>
