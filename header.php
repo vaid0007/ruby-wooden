@@ -5,7 +5,7 @@
                         <div class="main-header-two__top-request">
                             <div class="main-header-two__social">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <!-- <a href="#"><i class="fab fa-twitter"></i></a> -->
                                 <a href="#"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
@@ -176,3 +176,15 @@
         <!-- /.search-popup__content -->
     </div>
     <!-- /.search-popup -->
+     <!-- Floating WhatsApp & Call Buttons -->
+<div class="floating-contact">
+    <a href="https://wa.me/919811217586" target="_blank" class="floating-btn whatsapp">
+        <i class="fab fa-whatsapp"></i>
+        <span>WhatsApp</span>
+    </a>
+
+    <a href="tel:+919811217586" class="floating-btn call">
+        <i class="fa fa-phone"></i>
+        <span>Call</span>
+    </a>
+</div>

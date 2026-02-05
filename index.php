@@ -598,7 +598,7 @@
               <span class="icon-wrench"></span>
             </div>
             <h3 class="working-process__title">
-              <a href="pvc-mouldings.php">Product Selection</a>
+              <a href="pvc-mouldings.php">Product Selection Process</a>
             </h3>
             <p class="working-process__text">
               Choose from our wide range of imported and branded mouldings,
@@ -620,7 +620,7 @@
               <span class="icon-success1"></span>
             </div>
             <h3 class="working-process__title">
-              <a href="contact.php">Successful Delivery</a>
+              <a href="contact.php">Successful Delivery Product</a>
             </h3>
             <p class="working-process__text">
               Timely delivery of quality products with complete customer
