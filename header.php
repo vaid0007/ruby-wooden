@@ -58,7 +58,7 @@
                                     <a href="about.php">About</a>
                                 </li>
                                 <li class="dropdown">
-                                    Services
+                                    <a href="#">Services</a>
                                     <ul>
   <li>
     <a href="wooden-mouldings.php">Wooden Mouldings</a>
@@ -138,7 +138,7 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="https://themazine.com/cdn-cgi/l/email-protection#b8d6dddddcd0ddd4c8f8c8d9dbd3d9dfddf6d9d5dde7e796dbd7d5"><span class="__cf_email__" data-cfemail="98f6fdfdfcf0fdf4e8d8eff7f7fce2f9b6fbf7f5">[email&#160;protected]</span></a>
+                    <a href=""><span class="">sanjay1966rd@gmail.com</span></a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
