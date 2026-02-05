@@ -132,7 +132,7 @@
                         Accessories
                       </h1>
                       <div class="main-slider__btn-box">
-                        <a href="products.php" class="thm-btn main-slider__btn"
+                        <a href="wooden-mouldings.php" class="thm-btn main-slider__btn"
                           >View Products</a
                         >
                       </div>
@@ -342,7 +342,7 @@
     <div class="card-body" style="padding:28px;">
       <h5 style="font-weight:700;color:#0b2c5d;">Wooden Molding</h5>
       <p style="color:#666;line-height:1.7;">High-quality wooden moldings for elegant frames and décor.</p>
-      <a href="products.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
+      <a href="wooden-mouldings.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
   </div>
 </div>
@@ -362,7 +362,7 @@
     <div class="card-body" style="padding:28px;">
       <h5 style="font-weight:700;color:#0b2c5d;">Synthetic Molding</h5>
       <p style="color:#666;line-height:1.7;">Modern synthetic moldings with long-lasting strength.</p>
-      <a href="products.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
+      <a href="synthetic-mouldings.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
   </div>
 </div>
@@ -382,7 +382,7 @@
     <div class="card-body" style="padding:28px;">
       <h5 style="font-weight:700;color:#0b2c5d;">PVC Molding</h5>
       <p style="color:#666;line-height:1.7;">Lightweight, moisture-resistant PVC moldings.</p>
-      <a href="products.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
+      <a href="pvc-mouldings.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
   </div>
 </div>
@@ -402,7 +402,7 @@
     <div class="card-body" style="padding:28px;">
       <h5 style="font-weight:700;color:#0b2c5d;">Ready-Made Frames</h5>
       <p style="color:#666;line-height:1.7;">Frames available in A4, A5, A6 & more sizes.</p>
-      <a href="products.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
+      <a href="ready-made-frames.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
   </div>
 </div>
@@ -422,7 +422,7 @@
     <div class="card-body" style="padding:28px;">
       <h5 style="font-weight:700;color:#0b2c5d;">Corporate Frames</h5>
       <p style="color:#666;line-height:1.7;">Professional frames for certificates & awards.</p>
-      <a href="products.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
+      <a href="corporate-frames.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
   </div>
 </div>
@@ -442,7 +442,7 @@
     <div class="card-body" style="padding:28px;">
       <h5 style="font-weight:700;color:#0b2c5d;">Crystal Frames</h5>
       <p style="color:#666;line-height:1.7;">Crystal frames with all accessories included.</p>
-      <a href="products.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
+      <a href="crystal-frames.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
   </div>
 </div>
@@ -598,7 +598,7 @@
               <span class="icon-wrench"></span>
             </div>
             <h3 class="working-process__title">
-              <a href="products.php">Product Selection</a>
+              <a href="pvc-mouldings.php">Product Selection</a>
             </h3>
             <p class="working-process__text">
               Choose from our wide range of imported and branded mouldings,
@@ -682,7 +682,7 @@
             </p>
           </div>
           <div class="problem-solved__btn-box">
-            <a href="products.php" class="thm-btn problem-solved__btn">
+            <a href="synthetic-mouldings.php" class="thm-btn problem-solved__btn">
               Explore
             </a>
           </div>
@@ -734,20 +734,20 @@
         <div class="project-one__single">
           <div class="project-one__img">
             <img src="assets/images/project/project-1-1a.jpg" alt="" />
-            <div class="project-one__content">
+            <!-- <div class="project-one__content">
               <div class="project-one__content-title-box">
                 <span>Imported Mouldings</span>
-                <h3><a href="products.php">Designer Frame Profiles</a></h3>
+                <h3><a href="wooden-mouldings.php">Designer Frame Profiles</a></h3>
               </div>
               <p class="project-one__content-text">
                 Premium imported mouldings available in modern, classic, and luxury finishes.
               </p>
               <div class="project-one__btn-box">
-                <a href="products.php" class="thm-btn project-one__btn">
+                <a href="synthetic-mouldings.php" class="thm-btn project-one__btn">
                   View Collection
                 </a>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
@@ -757,20 +757,20 @@
         <div class="project-one__single">
           <div class="project-one__img">
             <img src="assets/images/project/project-1-2a.jpg" alt="" />
-            <div class="project-one__content">
+            <!-- <div class="project-one__content">
               <div class="project-one__content-title-box">
                 <span>Branded Materials</span>
-                <h3><a href="products.php">High Quality Frames</a></h3>
+                <h3><a href="ready-made-frames.php">High Quality Frames</a></h3>
               </div>
               <p class="project-one__content-text">
                 Trusted branded frame materials designed for durability and premium appeal.
               </p>
               <div class="project-one__btn-box">
-                <a href="products.php" class="thm-btn project-one__btn">
+                <a href="crystal-frames.php" class="thm-btn project-one__btn">
                   View Collection
                 </a>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
@@ -780,7 +780,7 @@
         <div class="project-one__single">
           <div class="project-one__img">
             <img src="assets/images/project/project-1-3a.jpg" alt="" />
-            <div class="project-one__content">
+            <!-- <div class="project-one__content">
               <div class="project-one__content-title-box">
                 <span>Accessories</span>
                 <h3><a href="products.php">Framing Essentials</a></h3>
@@ -793,13 +793,13 @@
                   View Collection
                 </a>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
 
       <!-- Item 4 -->
-      <div class="item">
+      <!-- <div class="item">
         <div class="project-one__single">
           <div class="project-one__img">
             <img src="assets/images/project/project-1-4a.jpg" alt="" />
@@ -819,7 +819,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
     </div>
   </div>
@@ -842,7 +842,7 @@
           </h2>
         </div>
         <div class="project-one__bottom-btn-box">
-          <a href="products.php" class="thm-btn project-one__bottom-btn">
+          <a href="synthetic-mouldings.php" class="thm-btn project-one__bottom-btn">
             View All Products
           </a>
         </div>
