@@ -102,7 +102,7 @@
                                             <span class="icon-location"></span>
                                         </div>
                                         <div class="text">
-                                            <p>37. Fateh puri 1st flor. Coronation building</p>
+                                            <p>1st floor, 37, Coronation Building, Fatehpuri(old), Chandni Chowk, <br>Delhi-110006</p>
                                         </div>
                                     </li>
                                 </ul>
