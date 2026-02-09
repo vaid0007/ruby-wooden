@@ -158,7 +158,7 @@
                                     <div class="content">
                                         <h5>Address</h5>
                                         <h6></h6>
-                                        <p>37. Fateh puri 1st flor. Coronation building</p>
+                                        <p>1st floor, 37, Coronation Building, Fatehpuri(old), Chandni Chowk,<br> Delhi-110006</p>
                                     </div>
                                 </li>
                                 <li>

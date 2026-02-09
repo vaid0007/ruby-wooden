@@ -667,8 +667,7 @@
                             <div class="content">
                                 <p>Office Address</p>
                                 <h4>
-                                    37. Fateh puri 1st flor.<br>
-                                    Coronation building
+                                    1st floor, 37, Coronation Building,<br> Fatehpuri(old), Chandni Chowk, <br>Delhi-110006
                                 </h4>
                             </div>
                         </li>
