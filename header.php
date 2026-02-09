@@ -5,7 +5,7 @@
                         <div class="main-header-two__top-request">
                             <div class="main-header-two__social">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <!-- <a href="#"><i class="fab fa-twitter"></i></a> -->
                                 <a href="#"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
@@ -45,7 +45,7 @@
                 <div class="main-menu-two__wrapper clearfix">
                     <div class="main-menu-two__left">
                         <div class="main-menu-two__logo">
-                            <a href="index.html"><img src="assets/images/resources/1a.png" alt=""></a>
+                            <a href="index.php"><img src="assets/images/resources/1a.png" alt=""></a>
                         </div>
 
                         <div class="main-menu-two__main-menu-box">
@@ -128,7 +128,7 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/1a.png"
+                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/1a.png"
                         width="143" alt="" /></a>
             </div>
             <!-- /.logo-box -->
@@ -176,3 +176,15 @@
         <!-- /.search-popup__content -->
     </div>
     <!-- /.search-popup -->
+     <!-- Floating WhatsApp & Call Buttons -->
+<div class="floating-contact">
+    <a href="https://wa.me/919811217586" target="_blank" class="floating-btn whatsapp">
+        <i class="fab fa-whatsapp"></i>
+        <span>WhatsApp</span>
+    </a>
+
+    <a href="tel:+919811217586" class="floating-btn call">
+        <i class="fa fa-phone"></i>
+        <span>Call</span>
+    </a>
+</div>

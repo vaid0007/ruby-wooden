@@ -4868,7 +4868,7 @@ ul {
 .site-footer__top {
   position: relative;
   display: block;
-  padding: 100px 0 100px;
+  padding: 50px 0 50px;
 }
 
 .footer-widget__about {
@@ -9016,7 +9016,7 @@ ul {
 .service-details {
   position: relative;
   display: block;
-  padding: 120px 0 120px;
+  padding: 100px 0 25px;
 }
 
 .service-details__left {
@@ -9196,7 +9196,7 @@ ul {
 .service-details__text-1 {
   font-size: 18px;
   opacity: .80;
-  line-height: 1;
+  line-height: 1.5;
   padding-top: 25px;
   padding-bottom: 31px;
 }
@@ -9204,7 +9204,7 @@ ul {
 .service-details__text-2 {
   font-size: 18px;
   opacity: .80;
-  line-height: 1;
+  line-height: 1.5;
 }
 
 .service-details__img-one {
@@ -9324,9 +9324,9 @@ ul {
 }
 
 .service-betails__benefits-text-1 {
-  font-size: 17px;
+  font-size: 18px;
   color: var(--woodza-gray);
-  line-height: 32px;
+  line-height: 1.5;
   margin: 0;
   opacity: .80;
   padding-top: 27px;
@@ -10856,6 +10856,61 @@ ul {
   display: block;
   padding: 120px 0 190px;
   background-color: #f7f5f5;
+}
+/* Floating WhatsApp & Call Buttons */
+.floating-contact {
+    position: fixed;
+    right: 20px;
+    top: 350px;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+/* Icon Button */
+.floating-btn {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 22px;
+    text-decoration: none;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* Hide text completely */
+.floating-btn span {
+    display: none;
+}
+
+/* WhatsApp */
+.floating-btn.whatsapp {
+    background: #25D366;
+}
+
+/* Call */
+.floating-btn.call {
+    background: #d32f2f;
+}
+
+/* Hover Effect: Glow + Slight Scale */
+.floating-btn:hover {
+    transform: scale(1.12);
+}
+
+/* WhatsApp Glow */
+.floating-btn.whatsapp:hover {
+    box-shadow: 0 0 20px rgba(37, 211, 102, 0.8);
+}
+
+/* Call Glow */
+.floating-btn.call:hover {
+    box-shadow: 0 0 20px rgba(211, 47, 47, 0.8);
 }
 
 
