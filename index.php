@@ -35,10 +35,23 @@
   <meta name="twitter:image" content="https://www.rubywooden.com/assets/images/og-image.jpg" />
 
   <!-- ===== FAVICONS (UNCHANGED) ===== -->
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
-  <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
+<!-- Apple Touch Icon -->
+<link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
+
+<!-- Standard Favicons -->
+<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
+
+<!-- Android Chrome Icons -->
+<link rel="icon" type="image/png" sizes="192x192" href="assets/images/favicons/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="assets/images/favicons/android-chrome-512x512.png">
+
+<!-- Fallback favicon -->
+<link rel="shortcut icon" href="assets/images/favicons/favicon.ico" type="image/x-icon">
+
+<!-- Web App Manifest -->
+<link rel="manifest" href="assets/images/favicons/site.webmanifest">
+
 
   <!-- ===== GOOGLE FONTS (UNCHANGED) ===== -->
   <link rel="preconnect" href="https://fonts.googleapis.com/" />
