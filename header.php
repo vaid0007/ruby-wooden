@@ -17,7 +17,7 @@
                                     <span class="icon-email-1"></span>
                                 </div>
                                 <div class="content">
-                                    <p><a href="">sanjay1966rd@gmail.com</span></a></p>
+                                    <p><a href="">srbmouldings@gmail.com</span></a></p>
                                 </div>
                             </li>
                             <li>       
@@ -34,7 +34,7 @@
                                     <span class="icon-location"></span>
                                 </div>
                                 <div class="content">
-                                    <p>3/15, Fatehpuri Chowk</p>
+                                    <p>37. Fateh puri 1st flor. Coronation building</p>
                                 </div>
                             </li>
                         </ul>

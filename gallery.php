@@ -175,7 +175,8 @@
                             <div class="contact-one__shape-2"></div>
                             <div class="contact-one__title">
                                 <h2>Have questions?..Feel free to write us </h2>
-                                <p>Lorem ipsum dolor sed quia non numquam qui ratione voluptatem sequi nesciunt.</p>
+                                <p>Contact SRB Molding (Beenu Traders) for product inquiries, pricing,
+                            and bulk orders of imported and branded mouldings.</p>
                             </div>
                             <ul class="list-unstyled contact-page__list">
                                  <li>
@@ -186,8 +187,8 @@
                                         <h5>Phone</h5>
                                         <p>
                                             <p><a href="tel:9811217586">+91 9811217586</a></p>
-                                            <p><a href="tel:9813697331">+91 9813697331</a></p>
-                                            <p><a href="tel:9818161071">+91 9818161071</a></p>
+                                            <p><a href="tel:9873195305">+91 9873195305</a></p>
+                                            <p><a href="tel:9811863421">+91 9811863421</a></p>
                                         </p>
                                     </div>
                                 </li>
@@ -198,7 +199,7 @@
                                     <div class="content">
                                         <h5>Email Address</h5>
                                         <p>
-                                            <a href="">sanjay1966rd@gmail.com</span></a>
+                                            <a href="">srbmouldings@gmail.com</span></a>
                                         </p>
                                     </div>
                                 </li>

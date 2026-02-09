@@ -145,7 +145,7 @@
                                     <div class="content">
                                         <h5>Address</h5>
                                         <h6></h6>
-                                        <p>3/15, Fatehpuri Chowk, Ground Floor,<br> Delhi – 110006, India</p>
+                                        <p>37. Fateh puri 1st flor. Coronation building</p>
                                     </div>
                                 </li>
                                 <li>
@@ -157,8 +157,8 @@
                                         <h6></h6>
                                         <p>
                                             <p><a href="tel:9811217586">+91 9811217586</a></p>
-                                            <p><a href="tel:9813697331">+91 9813697331</a></p>
-                                            <p><a href="tel:9818161071">+91 9818161071</a></p>
+                                            <p><a href="tel:9873195305">+91 9873195305</a></p>
+                                            <p><a href="tel: 9811863421">+91  9811863421</a></p>
                                         </p>
                                     </div>
                                 </li>
@@ -169,7 +169,7 @@
                                     <div class="content">
                                         <h5>Email Address</h5>
                                         <p>
-                                            <a href="">sanjay1966rd@gmail.com</span></a>
+                                            <a href="">srbmouldings@gmail.com</span></a>
                                         </p>
                                     </div>
                                 </li>

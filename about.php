@@ -628,7 +628,7 @@
                     <div class="contact-one__title">
                         <h2>Have a question? Get in touch with us</h2>
                         <p>
-                            Contact Beenu Traders for product inquiries, pricing,
+                            Contact SRB Molding (Beenu Traders) for product inquiries, pricing,
                             and bulk orders of imported and branded mouldings.
                         </p>
                     </div>
@@ -642,7 +642,7 @@
                                 <p>Phone Number</p>
                                 <h4>
                                     <a href="tel:+919811217586">+91 9811217586</a><br>
-                                    <a href="tel:+919813697331">+91 98136 97331</a>
+                                    <a href="tel:+919811863421">+91 9811863421</a>
                                 </h4>
                             </div>
                         </li>
@@ -654,8 +654,8 @@
                             <div class="content">
                                 <p>Office Address</p>
                                 <h4>
-                                    3/15, Fatehpuri Chowk,<br>
-                                    Ground Floor, Delhi – 110006, India
+                                    37. Fateh puri 1st flor.<br>
+                                    Coronation building
                                 </h4>
                             </div>
                         </li>
