@@ -132,7 +132,7 @@
                         Accessories
                       </h1>
                       <div class="main-slider__btn-box">
-                        <a href="wooden-mouldings.php" class="thm-btn main-slider__btn"
+                        <a href="wooden-mouldings" class="thm-btn main-slider__btn"
                           >View Products</a
                         >
                       </div>
@@ -166,7 +166,7 @@
                         Mouldings
                       </h2>
                       <div class="main-slider__btn-box">
-                        <a href="contact.php" class="thm-btn main-slider__btn"
+                        <a href="contact" class="thm-btn main-slider__btn"
                           >Get Inquiry</a
                         >
                       </div>
@@ -200,7 +200,7 @@
                         Solutions
                       </h2>
                       <div class="main-slider__btn-box">
-                        <a href="about.php" class="thm-btn main-slider__btn"
+                        <a href="about" class="thm-btn main-slider__btn"
                           >About Us</a
                         >
                       </div>
@@ -268,13 +268,13 @@
             <img src="assets/images/icon/famous-company-icon-2.png" alt="" />
           </div>
           <h3 class="famous-company__title">
-            <a href="about.php">Branded</br> Quality</a>
+            <a href="about">Branded</br> Quality</a>
           </h3>
           <p class="famous-company__text">
             Trusted branded materials ensuring durability and perfect finish.
           </p>
           <div class="famous-company__read-more">
-            <a href="about.php">
+            <a href="about">
               <i class="fas fa-arrow-right"></i>
               <span>Know More</span>
             </a>
@@ -290,13 +290,13 @@
             <img src="assets/images/icon/famous-company-icon-3.png" alt="" />
           </div>
           <h3 class="famous-company__title">
-            <a href="contact.php">Best Wholesale Rates</a>
+            <a href="contact">Best Wholesale Rates</a>
           </h3>
           <p class="famous-company__text">
             Competitive pricing for retailers, framers, and bulk buyers.
           </p>
           <div class="famous-company__read-more">
-            <a href="contact.php">
+            <a href="contact">
               <i class="fas fa-arrow-right"></i>
               <span>Get Quote</span>
             </a>
@@ -342,7 +342,7 @@
     <div class="card-body" style="padding:28px;">
       <h5 style="font-weight:700;color:#0b2c5d;">Wooden Molding</h5>
       <p style="color:#666;line-height:1.7;">High-quality wooden moldings for elegant frames and décor.</p>
-      <a href="wooden-mouldings.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
+      <a href="wooden-mouldings" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
   </div>
 </div>
@@ -362,7 +362,7 @@
     <div class="card-body" style="padding:28px;">
       <h5 style="font-weight:700;color:#0b2c5d;">Synthetic Molding</h5>
       <p style="color:#666;line-height:1.7;">Modern synthetic moldings with long-lasting strength.</p>
-      <a href="synthetic-mouldings.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
+      <a href="synthetic-mouldings" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
   </div>
 </div>
@@ -382,7 +382,7 @@
     <div class="card-body" style="padding:28px;">
       <h5 style="font-weight:700;color:#0b2c5d;">PVC Molding</h5>
       <p style="color:#666;line-height:1.7;">Lightweight, moisture-resistant PVC moldings.</p>
-      <a href="pvc-mouldings.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
+      <a href="pvc-mouldings" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
   </div>
 </div>
@@ -402,7 +402,7 @@
     <div class="card-body" style="padding:28px;">
       <h5 style="font-weight:700;color:#0b2c5d;">Ready-Made Frames</h5>
       <p style="color:#666;line-height:1.7;">Frames available in A4, A5, A6 & more sizes.</p>
-      <a href="ready-made-frames.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
+      <a href="ready-made-frames" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
   </div>
 </div>
@@ -422,7 +422,7 @@
     <div class="card-body" style="padding:28px;">
       <h5 style="font-weight:700;color:#0b2c5d;">Corporate Frames</h5>
       <p style="color:#666;line-height:1.7;">Professional frames for certificates & awards.</p>
-      <a href="corporate-frames.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
+      <a href="corporate-frames" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
   </div>
 </div>
@@ -442,7 +442,7 @@
     <div class="card-body" style="padding:28px;">
       <h5 style="font-weight:700;color:#0b2c5d;">Crystal Frames</h5>
       <p style="color:#666;line-height:1.7;">Crystal frames with all accessories included.</p>
-      <a href="crystal-frames.php" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
+      <a href="crystal-frames" style="color:#ff7a18;font-weight:600;text-decoration:none;">View Products →</a>
     </div>
   </div>
 </div>
@@ -578,7 +578,7 @@
               <span class="icon-circular-saw"></span>
             </div>
             <h3 class="working-process__title">
-              <a href="contact.php">Requirement Discussion</a>
+              <a href="contact">Requirement Discussion</a>
             </h3>
             <p class="working-process__text">
               We understand your framing needs and suggest the best mouldings
@@ -598,7 +598,7 @@
               <span class="icon-wrench"></span>
             </div>
             <h3 class="working-process__title">
-              <a href="pvc-mouldings.php">Product Selection Process</a>
+              <a href="pvc-mouldings">Product Selection Process</a>
             </h3>
             <p class="working-process__text">
               Choose from our wide range of imported and branded mouldings,
@@ -620,7 +620,7 @@
               <span class="icon-success1"></span>
             </div>
             <h3 class="working-process__title">
-              <a href="contact.php">Successful Delivery Product</a>
+              <a href="contact">Successful Delivery Product</a>
             </h3>
             <p class="working-process__text">
               Timely delivery of quality products with complete customer
@@ -682,7 +682,7 @@
             </p>
           </div>
           <div class="problem-solved__btn-box">
-            <a href="synthetic-mouldings.php" class="thm-btn problem-solved__btn">
+            <a href="synthetic-mouldings" class="thm-btn problem-solved__btn">
               Explore
             </a>
           </div>
@@ -737,13 +737,13 @@
             <!-- <div class="project-one__content">
               <div class="project-one__content-title-box">
                 <span>Imported Mouldings</span>
-                <h3><a href="wooden-mouldings.php">Designer Frame Profiles</a></h3>
+                <h3><a href="wooden-mouldings">Designer Frame Profiles</a></h3>
               </div>
               <p class="project-one__content-text">
                 Premium imported mouldings available in modern, classic, and luxury finishes.
               </p>
               <div class="project-one__btn-box">
-                <a href="synthetic-mouldings.php" class="thm-btn project-one__btn">
+                <a href="synthetic-mouldings" class="thm-btn project-one__btn">
                   View Collection
                 </a>
               </div>
@@ -760,13 +760,13 @@
             <!-- <div class="project-one__content">
               <div class="project-one__content-title-box">
                 <span>Branded Materials</span>
-                <h3><a href="ready-made-frames.php">High Quality Frames</a></h3>
+                <h3><a href="ready-made-frames">High Quality Frames</a></h3>
               </div>
               <p class="project-one__content-text">
                 Trusted branded frame materials designed for durability and premium appeal.
               </p>
               <div class="project-one__btn-box">
-                <a href="crystal-frames.php" class="thm-btn project-one__btn">
+                <a href="crystal-frames" class="thm-btn project-one__btn">
                   View Collection
                 </a>
               </div>
@@ -842,7 +842,7 @@
           </h2>
         </div>
         <div class="project-one__bottom-btn-box">
-          <a href="synthetic-mouldings.php" class="thm-btn project-one__bottom-btn">
+          <a href="synthetic-mouldings" class="thm-btn project-one__bottom-btn">
             View All Products
           </a>
         </div>
@@ -994,7 +994,7 @@
           </div>
         </div>
         <div class="about-history__right">
-          <a href="about.php" class="thm-btn about-history__btn">
+          <a href="about" class="thm-btn about-history__btn">
             About Company
           </a>
         </div>

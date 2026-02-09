@@ -55,42 +55,42 @@
                                     <a href="index.php">Home </a>
                                 </li>
                                 <li>
-                                    <a href="about.php">About</a>
+                                    <a href="about">About</a>
                                 </li>
                                 <li class="dropdown">
                                     <a href="#">Services</a>
                                     <ul>
   <li>
-    <a href="wooden-mouldings.php">Wooden Mouldings</a>
+    <a href="wooden-mouldings">Wooden Mouldings</a>
   </li>
 
   <li>
-    <a href="synthetic-mouldings.php">Synthetic Mouldings</a>
+    <a href="synthetic-mouldings">Synthetic Mouldings</a>
   </li>
 
   <li>
-    <a href="pvc-mouldings.php">PVC Mouldings</a>
+    <a href="pvc-mouldings">PVC Mouldings</a>
   </li>
 
   <li>
-    <a href="ready-made-frames.php">Ready-Made Frames</a>
+    <a href="ready-made-frames">Ready-Made Frames</a>
   </li>
 
   <li>
-    <a href="corporate-frames.php">Corporate Frames</a>
+    <a href="corporate-frames">Corporate Frames</a>
   </li>
 
   <li>
-    <a href="crystal-frames.php">Crystal Frames</a>
+    <a href="crystal-frames">Crystal Frames</a>
   </li>
 </ul>
                                 </li>
                                 
                                <li>
-                                            <a href="gallery.php">Gallery</a>
+                                            <a href="gallery">Gallery</a>
                                         </li>
                                         <li>
-                                            <a href="contact.php">Contact</a>
+                                            <a href="contact">Contact</a>
                                         </li>
                             </ul>
                         </div>
@@ -109,7 +109,7 @@
                         <div class="main-menu-two__social-btn">
                             
                             <div class="main-menu-two__btn">
-                                <a href="contact.php">Appointment</a>
+                                <a href="contact">Appointment</a>
                             </div>
                         </div>
                     </div>

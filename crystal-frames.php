@@ -301,42 +301,42 @@
                 <ul class="service-details__list list-unstyled">
 
                   <li>
-                    <a href="wooden-mouldings.php">
+                    <a href="wooden-mouldings">
                       Wooden Mouldings
                       <span class="icon-right-arrow-2"></span>
                     </a>
                   </li>
 
                   <li>
-                    <a href="synthetic-mouldings.php">
+                    <a href="synthetic-mouldings">
                       Synthetic Mouldings
                       <span class="icon-right-arrow-2"></span>
                     </a>
                   </li>
 
                   <li>
-                    <a href="pvc-mouldings.php">
+                    <a href="pvc-mouldings">
                       PVC Mouldings
                       <span class="icon-right-arrow-2"></span>
                     </a>
                   </li>
 
                   <li>
-                    <a href="ready-made-frames.php">
+                    <a href="ready-made-frames">
                       Ready-Made Frames
                       <span class="icon-right-arrow-2"></span>
                     </a>
                   </li>
 
                   <li>
-                    <a href="corporate-frames.php">
+                    <a href="corporate-frames">
                       Corporate Frames
                       <span class="icon-right-arrow-2"></span>
                     </a>
                   </li>
 
                   <li class="active">
-                    <a href="crystal-frames.php">
+                    <a href="crystal-frames">
                       Crystal Frames
                       <span class="icon-right-arrow-2"></span>
                     </a>
